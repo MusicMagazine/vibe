@@ -19,3 +19,13 @@ imageSelector = "div.thumb img"
 contentSelector = "div.info"
 waitForSelector = "div.mag_headline"
 onFail = "stale"
+
+[news]
+title = "VIBE ─ NEWS"
+url = "https://vibe.naver.com/today"
+entrySelector = "div.list_wrap_news div ul.scroll_list li.list_item"
+titleSelector = "a.title"
+linkSelector = "a.link_sub"
+contentSelector = "a.title"
+imageSelector = "div.thumb img"
+waitUntil = "networkidle"
