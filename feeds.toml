@@ -9,6 +9,16 @@ imageSelector = "div.thumb img.v-lazy-image.v-lazy-image-loaded"
 waitForSelector = "ul.mag_list li.list_item"
 onFail = "stale"
 
+[magazines_legacy]
+title = "VIBE ─ 매거진"
+url = "https://vibe.naver.com/magazines"
+entrySelector = "ul.mag_list li.list_item"
+titleSelector = "div.info a.title"
+linkSelector = "div.thumb_area a.link"
+imageSelector = "div.thumb img.v-lazy-image.v-lazy-image-loaded"
+waitForSelector = "ul.mag_list li.list_item"
+onFail = "stale"
+
 [magazines_top]
 title = "VIBE ─ 매거진 TOP"
 url = "https://vibe.naver.com/magazines"
