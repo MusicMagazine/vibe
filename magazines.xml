@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 09:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 10:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 힙합은 멋져 : 
+신스, 스카이민혁]]></title>
+            <link>https://vibe.naver.com/magazines/58859</link>
+            <guid>https://vibe.naver.com/magazines/58859</guid>
+            <pubDate>Mon, 21 Feb 2022 10:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.18]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220217_299/1645088367231ShFPK_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽하이가 
 여기 있는 이유는?]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/58553</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.07]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220207_162/1644214553488WKdlP_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Billboard HOT 100 : 
@@ -793,14 +801,6 @@ Weeekly(위클리)]]></title>
             <guid>https://vibe.naver.com/magazines/51648</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[8월의 느낌, 
-당신의 느낌은 어땠나요?]]></title>
-            <link>https://vibe.naver.com/magazines/51426</link>
-            <guid>https://vibe.naver.com/magazines/51426</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.06]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 09:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 10:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 힙합은 멋져 : 
+신스, 스카이민혁 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/58859</link>
+            <guid>https://vibe.naver.com/magazines/58859</guid>
+            <pubDate>Fri, 18 Feb 2022 21:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.18]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220217_299/1645088367231ShFPK_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽하이가 
 여기 있는 이유는? (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/58553</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.07]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220207_162/1644214553488WKdlP_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Billboard HOT 100 : 
@@ -795,12 +803,15 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[8월의 느낌, 
-당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/51426</link>
-            <guid>https://vibe.naver.com/magazines/51426</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.06]]></content:encoded>
+            <title><![CDATA[한국 힙합은 멋져 : 
+신스, 스카이민혁 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/58859</link>
+            <guid>https://vibe.naver.com/magazines/58859</guid>
+            <pubDate>Fri, 18 Feb 2022 21:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/58859" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="https://music-phinf.pstatic.net/20220217_299/1645088367231ShFPK_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="한국 힙합은 멋져 : 
+신스, 스카이민혁"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/58859" data-title="한국 힙합은 멋져 : 신스, 스카이민혁" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/58859" class="title">한국 힙합은 멋져 : 
+신스, 스카이민혁</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.18 </span><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220217_299/1645088367231ShFPK_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에픽하이가 
@@ -830,10 +841,9 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/58553</link>
             <guid>https://vibe.naver.com/magazines/58553</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/58553" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="https://music-phinf.pstatic.net/20220207_162/1644214553488WKdlP_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #78 : 
+            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/58553" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #78 : 
 체인스모커스, 이진아"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/58553" data-title="New Release #78 : 체인스모커스, 이진아" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/58553" class="title">New Release #78 : 
 체인스모커스, 이진아</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.07 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220207_162/1644214553488WKdlP_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Billboard HOT 100 : 
@@ -1786,23 +1796,13 @@ Weeekly(위클리)</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2=
 &lt;동네청년&gt;의 김재중</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.07 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[8월의 느낌, 
-당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/51426</link>
-            <guid>https://vibe.naver.com/magazines/51426</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/51426" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="8월의 느낌, 
-당신의 느낌은 어땠나요?"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/51426" data-title="8월의 느낌, 당신의 느낌은 어땠나요?" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/51426" class="title">8월의 느낌, 
-당신의 느낌은 어땠나요?</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.06 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국 힙합은 멋져 : 
-신스, 스카이민혁 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/58859</link>
-            <guid>https://vibe.naver.com/magazines/58859</guid>
-            <pubDate>Fri, 18 Feb 2022 21:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[라임과 장르, 그리고 힙합에 관한 여러 논쟁이 이어지고 있는 2022년의 한국 힙합 씬. 물론, 올 상반기도 어김없이 여러 음악가가 좋은 작품을 발표하며 힙합 팬들의 귀를 즐겁게 만들어 주고 있다. 이에 힙합엘이가 올 상반기까지 나왔던 국내 힙합 음악 중 반드시 들었으면 하는 몇몇 아티스트를 꼽아 소개하려고 한다. 순서는 무순. - 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220217_149/1645088371284es8ba_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[New Release #80 : 
+태연, 트로이 시반 (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/58987</link>
+            <guid>https://vibe.naver.com/magazines/58987</guid>
+            <pubDate>Mon, 21 Feb 2022 10:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[차트를 휩쓸고 있는 태연의 정규 앨범, 사운드트랙으로 돌아온 트로이 시반까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220221_20/16454292983414iVmo_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위너가 4월에 완전체 콘서트를 진행합니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
