@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #80 : 
+태연, 트로이 시반 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/58987</link>
+            <guid>https://vibe.naver.com/magazines/58987</guid>
+            <pubDate>Mon, 21 Feb 2022 10:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.21]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220221_295/1645429293535oSmwJ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 힙합은 멋져 : 
 신스, 스카이민혁 (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/58655</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.14]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220214_200/1644824504625NioXP_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #78 : 
@@ -137,6 +145,14 @@ TRENDZ(트렌드지) (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/57577</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.01.12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1월의 느낌, 
+당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/58908</link>
+            <guid>https://vibe.naver.com/magazines/58908</guid>
+            <pubDate>Wed, 23 Feb 2022 04:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.01.15]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[New Release #75 : 
@@ -787,20 +803,15 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.09]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #54 : 
-선미, 위켄드 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/51776</link>
-            <guid>https://vibe.naver.com/magazines/51776</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.09]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[친구보다 더 친구 같은
-<동네청년>의 김재중 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/51648</link>
-            <guid>https://vibe.naver.com/magazines/51648</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.07]]></content:encoded>
+            <title><![CDATA[New Release #80 : 
+태연, 트로이 시반 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/58987</link>
+            <guid>https://vibe.naver.com/magazines/58987</guid>
+            <pubDate>Mon, 21 Feb 2022 10:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/58987" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="https://music-phinf.pstatic.net/20220221_295/1645429293535oSmwJ_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #80 : 
+태연, 트로이 시반"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/58987" data-title="New Release #80 : 태연, 트로이 시반" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/58987" class="title">New Release #80 : 
+태연, 트로이 시반</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.21 </span><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220221_295/1645429293535oSmwJ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 힙합은 멋져 : 
@@ -830,10 +841,9 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/58655</link>
             <guid>https://vibe.naver.com/magazines/58655</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/58655" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="https://music-phinf.pstatic.net/20220214_200/1644824504625NioXP_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #79
+            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/58655" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #79
 : 에드 시런 &amp; 테일러 스위프트"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/58655" data-title="New Release #79: 에드 시런 &amp; 테일러 스위프트" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/58655" class="title">New Release #79
 : 에드 시런 &amp; 테일러 스위프트</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.14 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220214_200/1644824504625NioXP_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #78 : 
@@ -964,6 +974,16 @@ TRENDZ(트렌드지) (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/57577" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="무엇이든 물어보세요 : 
 TRENDZ(트렌드지)"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/6844709" data-title="무엇이든 물어보세요 : TRENDZ(트렌드지)" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/57577" class="title">무엇이든 물어보세요 : 
 TRENDZ(트렌드지)</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2022.01.12 </span><!----></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1월의 느낌, 
+당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/58908</link>
+            <guid>https://vibe.naver.com/magazines/58908</guid>
+            <pubDate>Wed, 23 Feb 2022 04:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/58908" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="1월의 느낌, 
+당신의 느낌은 어땠나요?"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/58908" data-title="1월의 느낌, 당신의 느낌은 어땠나요?" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/58908" class="title">1월의 느낌, 
+당신의 느낌은 어땠나요?</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2022.01.15 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[New Release #75 : 
@@ -1776,33 +1796,13 @@ Weeekly(위클리)"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" 
 Weeekly(위클리)</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.09 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #54 : 
-선미, 위켄드 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/51776</link>
-            <guid>https://vibe.naver.com/magazines/51776</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/51776" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #54 : 
-선미, 위켄드"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/51776" data-title="New Release #54 : 선미, 위켄드" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/51776" class="title">New Release #54 : 
-선미, 위켄드</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.09 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[친구보다 더 친구 같은
-<동네청년>의 김재중 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/51648</link>
-            <guid>https://vibe.naver.com/magazines/51648</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-16fe29a2="" class="thumb_area"><a data-v-16fe29a2="" href="/magazines/51648" class="link"><div data-v-16fe29a2="" class="thumb"><img data-v-4dcb5b96="" data-v-16fe29a2="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="친구보다 더 친구 같은
-<동네청년>의 김재중"></div></a><a data-v-34a49312="" data-v-16fe29a2="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-16fe29a2="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/51648" data-title="친구보다 더 친구 같은<동네청년>의 김재중" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-16fe29a2="" class="info"><a data-v-16fe29a2="" href="/magazines/51648" class="title">친구보다 더 친구 같은
-&lt;동네청년&gt;의 김재중</a><div data-v-16fe29a2="" class="sub"><span data-v-16fe29a2="" class="item"><span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.07 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #80 : 
-태연, 트로이 시반 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/58987</link>
-            <guid>https://vibe.naver.com/magazines/58987</guid>
-            <pubDate>Mon, 21 Feb 2022 10:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[차트를 휩쓸고 있는 태연의 정규 앨범, 사운드트랙으로 돌아온 트로이 시반까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220221_20/16454292983414iVmo_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[이주의 디깅 #128 
+엔칸토: 마법의 세계 (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/58781</link>
+            <guid>https://vibe.naver.com/magazines/58781</guid>
+            <pubDate>Wed, 23 Feb 2022 04:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[누구도 예상치 못한 일이 일어났다. 디즈니 애니메이션 영화 &lt;엔칸토: 마법의 세계&gt;의 OST &lt;We Don't Talk About Bruno&gt;가 빌보드 핫100 차트에서 1위를 차지한 것이다. 디즈니 영화 주제곡이 1위에 오른 것은 1993년 &lt;알라딘&gt; 이후 29년 만으로, 덩달아 디즈니의 여러 명곡도 다시 주목받고 있다. 어쩌면 지금, 세상은 마음을 따뜻하게 덥혀줄 동심을 필요로 하는 것은 아닐까? - 파고]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220215_239/1644889573476pybWN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JYP의 신인 걸그룹 엔믹스가 데뷔하였습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
