@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 10:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 11:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월의 느낌, 
+당신의 느낌은 어땠나요?]]></title>
+            <link>https://vibe.naver.com/magazines/58947</link>
+            <guid>https://vibe.naver.com/magazines/58947</guid>
+            <pubDate>Mon, 28 Feb 2022 11:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.24]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220218_148/1645165374099ORgFN_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #128 
 엔칸토 : 마법의 세계]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/58859</guid>
             <pubDate>Mon, 21 Feb 2022 10:17:21 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.02.18]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220217_299/1645088367231ShFPK_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에픽하이가 
@@ -793,14 +801,6 @@ CIX]]></title>
             <guid>https://vibe.naver.com/magazines/51954</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #115 
-AKMU]]></title>
-            <link>https://vibe.naver.com/magazines/51287</link>
-            <guid>https://vibe.naver.com/magazines/51287</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.12]]></content:encoded>
         </item>
     </channel>
 </rss>
