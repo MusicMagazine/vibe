@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 10:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 11:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄, 그리고 알앤비 :  
+라비나, 앰버 마크]]></title>
+            <link>https://vibe.naver.com/magazines/59564</link>
+            <guid>https://vibe.naver.com/magazines/59564</guid>
+            <pubDate>Thu, 10 Mar 2022 11:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.03.10]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220310_8/1646890789497lCz3m_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #129 
 태연]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/59408</guid>
             <pubDate>Mon, 07 Mar 2022 08:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.03.03]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220303_127/164629440295439FVc_JPEG/%C4%BF%B9%F62.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[익숙하고도 일정하게 
@@ -793,14 +801,6 @@ D.O.G 크루, 데자부 그룹]]></title>
             <guid>https://vibe.naver.com/magazines/52214</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[알록달록 반짝이는, 
-유하]]></title>
-            <link>https://vibe.naver.com/magazines/52258</link>
-            <guid>https://vibe.naver.com/magazines/52258</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.08.25]]></content:encoded>
         </item>
     </channel>
 </rss>
