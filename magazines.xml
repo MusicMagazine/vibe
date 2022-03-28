@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 09:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 10:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전설의 3인조 : 
+소방차, 서태지와 아이들]]></title>
+            <link>https://vibe.naver.com/magazines/60119</link>
+            <guid>https://vibe.naver.com/magazines/60119</guid>
+            <pubDate>Mon, 28 Mar 2022 10:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.03.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220325_47/1648183740985D8fmt_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 들어야만 하는 앨범  : 
 라드 뮤지엄, 채]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/59953</guid>
             <pubDate>Wed, 23 Mar 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.03.21]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220321_179/1647852323992NrMbO_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #130 
@@ -793,14 +801,6 @@ ATEEZ(에이티즈)]]></title>
             <guid>https://vibe.naver.com/magazines/52461</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.09.14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #59 : 
-리사, 메탈리카]]></title>
-            <link>https://vibe.naver.com/magazines/53005</link>
-            <guid>https://vibe.naver.com/magazines/53005</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.09.13]]></content:encoded>
         </item>
     </channel>
 </rss>
