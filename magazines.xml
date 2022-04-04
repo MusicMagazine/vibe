@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 09:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 10:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Billboard HOT 100 : 
+영국 밴드가 쓴 드라마]]></title>
+            <link>https://vibe.naver.com/magazines/60464</link>
+            <guid>https://vibe.naver.com/magazines/60464</guid>
+            <pubDate>Mon, 04 Apr 2022 10:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.03.31]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220331_142/1648712719755nhIPl_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벤, 
 봄에도 이별은 찾아오니까]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/60254</guid>
             <pubDate>Tue, 29 Mar 2022 05:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.03.28]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220328_177/1648453180509MWHUF_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신이 들어야만 하는 앨범  : 
@@ -791,14 +799,6 @@ AB6IX(에이비식스)]]></title>
 달리고 싶다]]></title>
             <link>https://vibe.naver.com/magazines/53182</link>
             <guid>https://vibe.naver.com/magazines/53182</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.09.17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무엇이든 물어보세요 : 
-ATEEZ(에이티즈)]]></title>
-            <link>https://vibe.naver.com/magazines/53343</link>
-            <guid>https://vibe.naver.com/magazines/53343</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.09.17]]></content:encoded>
         </item>
