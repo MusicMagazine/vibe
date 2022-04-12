@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #87 : 
+찰리 푸스, 아이브]]></title>
+            <link>https://vibe.naver.com/magazines/60853</link>
+            <guid>https://vibe.naver.com/magazines/60853</guid>
+            <pubDate>Tue, 12 Apr 2022 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.04.11]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220411_59/16496672661267RFJi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루키 씨의 오래되고 
 멋진 클래식 레코드]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/60574</guid>
             <pubDate>Thu, 07 Apr 2022 11:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.04.05]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220405_229/1649154857990XRKzT_JPEG/%BD%E6%B3%D7%C0%CF1.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #86 : 
@@ -793,14 +801,6 @@ AB6IX(에이비식스)]]></title>
             <guid>https://vibe.naver.com/magazines/53553</guid>
             <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.09.28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #60 : 
-콜드플레이, 방탄소년단]]></title>
-            <link>https://vibe.naver.com/magazines/53670</link>
-            <guid>https://vibe.naver.com/magazines/53670</guid>
-            <pubDate>Fri, 18 Feb 2022 21:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.09.27]]></content:encoded>
         </item>
     </channel>
 </rss>
