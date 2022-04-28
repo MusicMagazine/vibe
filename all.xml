@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:40:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #89 : 
+김성규, 키드 라로이 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61258</link>
+            <guid>https://vibe.naver.com/magazines/61258</guid>
+            <pubDate>Mon, 25 Apr 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220425_90/1650872783221ru59D_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숏폼 콘텐츠의 전성시대 : 
 지코, 장기하 (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/61053</guid>
             <pubDate>Mon, 18 Apr 2022 10:19:55 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.18]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220418_3/1650271091286fOlcU_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #132 
@@ -99,12 +107,15 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.03.31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[벤, 
-봄에도 이별은 찾아오니까 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/60408</link>
-            <guid>https://vibe.naver.com/magazines/60408</guid>
-            <pubDate>Wed, 30 Mar 2022 12:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.03.30]]></content:encoded>
+            <title><![CDATA[New Release #89 : 
+김성규, 키드 라로이 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61258</link>
+            <guid>https://vibe.naver.com/magazines/61258</guid>
+            <pubDate>Mon, 25 Apr 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61258" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="https://music-phinf.pstatic.net/20220425_90/1650872783221ru59D_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #89 : 
+김성규, 키드 라로이"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61258" data-title="New Release #89 : 김성규, 키드 라로이" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61258" class="title">New Release #89 : 
+김성규, 키드 라로이</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.04.25 </span><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220425_90/1650872783221ru59D_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숏폼 콘텐츠의 전성시대 : 
@@ -134,10 +145,9 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/61053</link>
             <guid>https://vibe.naver.com/magazines/61053</guid>
             <pubDate>Mon, 18 Apr 2022 10:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61053" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="https://music-phinf.pstatic.net/20220418_3/1650271091286fOlcU_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #88 : 
+            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61053" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #88 : 
 온유, 제시"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61053" data-title="New Release #88 : 온유, 제시" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61053" class="title">New Release #88 : 
 온유, 제시</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.04.18 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220418_3/1650271091286fOlcU_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #132 
@@ -220,23 +230,13 @@ NCT DREAM, 권진아</a><div data-v-6937534c="" class="sub"><span data-v-6937534
 영국 밴드가 쓴 드라마</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.03.31 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[벤, 
-봄에도 이별은 찾아오니까 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/60408</link>
-            <guid>https://vibe.naver.com/magazines/60408</guid>
-            <pubDate>Wed, 30 Mar 2022 12:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/60408" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="벤, 
-봄에도 이별은 찾아오니까"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/60408" data-title="벤, 봄에도 이별은 찾아오니까" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/60408" class="title">벤, 
-봄에도 이별은 찾아오니까</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.03.30 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #89 : 
-김성규, 키드 라로이 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/61258</link>
-            <guid>https://vibe.naver.com/magazines/61258</guid>
-            <pubDate>Mon, 25 Apr 2022 08:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[솔로 앨범으로 돌아온 데뷔 13년 차 김성규, 새로운 스타의 등장을 알린 키드 라로이. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220425_265/1650872787307tn1vh_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[한국 힙합/알앤비 이즈 고 : 
+릴모쉬핏, 엘로 (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/61312</link>
+            <guid>https://vibe.naver.com/magazines/61312</guid>
+            <pubDate>Thu, 28 Apr 2022 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[한국 힙합/알앤비를 상징하는 음악 레이블 하이라이트 레코즈가 해체 소식을 알린 2022년의 4월. 이에 일부 힙합 팬들은 지난 추억을, 일부는 한국 힙합 씬의 위기를 이야기하고 있는 요즘이다. 하지만, 여전히 한국 힙합/알앤비 음악가는 이들의 유산을 물려받아 개성 넘치는 작품을 발표하고 있다. 이 중에서도 반드시 들었으면 하는 일곱 장의 앨범을 소개한다. – 힙합엘이]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220427_213/1651049412600slQjP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투모로우바이투게더가 첫 월드 투어를 개최합니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
