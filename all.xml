@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 01:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 03:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/61530</guid>
             <pubDate>Tue, 03 May 2022 05:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220502_292/16514832670042KKuE_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 힙합/알앤비 이즈 고 : 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/61312</guid>
             <pubDate>Thu, 28 Apr 2022 05:39:51 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.27]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220427_103/1651049408329Li6Vt_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #89 : 
@@ -30,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/61258</guid>
             <pubDate>Mon, 25 Apr 2022 08:22:47 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220425_90/1650872783221ru59D_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숏폼 콘텐츠의 전성시대 : 
