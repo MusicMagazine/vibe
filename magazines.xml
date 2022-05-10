@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 01:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEXTREND : 
+LE SSERAFIM(르세라핌)]]></title>
+            <link>https://vibe.naver.com/magazines/61453</link>
+            <guid>https://vibe.naver.com/magazines/61453</guid>
+            <pubDate>Tue, 10 May 2022 02:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220502_290/1651465569274g8U5h_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Release #91 : 
 임영웅, 잭 할로우]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/61312</guid>
             <pubDate>Mon, 02 May 2022 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.27]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220427_103/1651049408329Li6Vt_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #89 : 
@@ -97,14 +105,6 @@
             <guid>https://vibe.naver.com/magazines/60508</guid>
             <pubDate>Mon, 11 Apr 2022 11:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[덴젤 커리의 도우미 : 
-빌리 아일리시, 선더캣]]></title>
-            <link>https://vibe.naver.com/magazines/60776</link>
-            <guid>https://vibe.naver.com/magazines/60776</guid>
-            <pubDate>Fri, 08 Apr 2022 03:00:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.07]]></content:encoded>
         </item>
     </channel>
 </rss>
