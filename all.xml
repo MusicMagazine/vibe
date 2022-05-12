@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 18:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/61755</guid>
             <pubDate>Mon, 09 May 2022 10:20:14 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.09]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220509_227/1652085055022A6Qck_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NEXTREND : 
@@ -22,6 +23,7 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/61453</guid>
             <pubDate>Mon, 02 May 2022 09:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220502_290/1651465569274g8U5h_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #90 : 
@@ -30,6 +32,7 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/61530</guid>
             <pubDate>Tue, 03 May 2022 05:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220502_292/16514832670042KKuE_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 힙합/알앤비 이즈 고 : 
