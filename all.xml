@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 05:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 06:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이주의 디깅 #134 
-켄드릭 라마 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61955</link>
-            <guid>https://vibe.naver.com/magazines/61955</guid>
-            <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.17]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220517_81/1652759462116e9CiR_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[AB6IX, 
 돌아온 구원자여 (VIBE ─ 매거진)]]></title>
@@ -26,13 +17,13 @@
             <enclosure url="https://music-phinf.pstatic.net/20220518_53/16528459530591PQqn_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국 알앤비? 여기요! : 
-정기고, 김준원 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61854</link>
-            <guid>https://vibe.naver.com/magazines/61854</guid>
+            <title><![CDATA[이주의 디깅 #134 
+켄드릭 라마 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61955</link>
+            <guid>https://vibe.naver.com/magazines/61955</guid>
             <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.13]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220513_73/1652406578952Q2Vgi_JPEG/%C4%BF1.jpg?type=w720" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.17]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220517_81/1652759462116e9CiR_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #92 : 
@@ -41,6 +32,15 @@ TXT, 켄드릭 라마 (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/61904</guid>
             <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.16]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220516_253/1652687236924IK2Rt_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 알앤비? 여기요! : 
+정기고, 김준원 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61854</link>
+            <guid>https://vibe.naver.com/magazines/61854</guid>
+            <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.13]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #133 
@@ -59,19 +59,19 @@ TXT, 켄드릭 라마 (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.09]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NEXTREND : 
-LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61453</link>
-            <guid>https://vibe.naver.com/magazines/61453</guid>
-            <pubDate>Mon, 02 May 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[New Release #90 : 
 몬스타엑스, 샘 스미스 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/61530</link>
             <guid>https://vibe.naver.com/magazines/61530</guid>
             <pubDate>Tue, 03 May 2022 05:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NEXTREND : 
+LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61453</link>
+            <guid>https://vibe.naver.com/magazines/61453</guid>
+            <pubDate>Mon, 02 May 2022 09:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
         </item>
         <item>
@@ -107,17 +107,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.19]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주의 디깅 #134 
-켄드릭 라마 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61955</link>
-            <guid>https://vibe.naver.com/magazines/61955</guid>
-            <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61955" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="https://music-phinf.pstatic.net/20220517_81/1652759462116e9CiR_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="이주의 디깅 #134 
-켄드릭 라마"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61955" data-title="이주의 디깅 #134 켄드릭 라마" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61955" class="title">이주의 디깅 #134 
-켄드릭 라마</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.17 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220517_81/1652759462116e9CiR_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[AB6IX, 
 돌아온 구원자여 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62026</link>
@@ -129,15 +118,15 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20220518_53/16528459530591PQqn_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국 알앤비? 여기요! : 
-정기고, 김준원 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61854</link>
-            <guid>https://vibe.naver.com/magazines/61854</guid>
+            <title><![CDATA[이주의 디깅 #134 
+켄드릭 라마 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61955</link>
+            <guid>https://vibe.naver.com/magazines/61955</guid>
             <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61854" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="https://music-phinf.pstatic.net/20220513_73/1652406578952Q2Vgi_JPEG/%C4%BF1.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="한국 알앤비? 여기요! : 
-정기고, 김준원"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61854" data-title="한국 알앤비? 여기요! : 정기고, 김준원" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61854" class="title">한국 알앤비? 여기요! : 
-정기고, 김준원</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.13 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220513_73/1652406578952Q2Vgi_JPEG/%C4%BF1.jpg?type=w720" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61955" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="https://music-phinf.pstatic.net/20220517_81/1652759462116e9CiR_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="이주의 디깅 #134 
+켄드릭 라마"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61955" data-title="이주의 디깅 #134 켄드릭 라마" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61955" class="title">이주의 디깅 #134 
+켄드릭 라마</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.17 </span><!----></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220517_81/1652759462116e9CiR_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #92 : 
@@ -145,9 +134,20 @@ TXT, 켄드릭 라마 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/61904</link>
             <guid>https://vibe.naver.com/magazines/61904</guid>
             <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61904" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #92 : 
+            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61904" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="https://music-phinf.pstatic.net/20220516_253/1652687236924IK2Rt_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #92 : 
 TXT, 켄드릭 라마"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61904" data-title="New Release #92 : TXT, 켄드릭 라마" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61904" class="title">New Release #92 : 
 TXT, 켄드릭 라마</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.16 </span><!----></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220516_253/1652687236924IK2Rt_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 알앤비? 여기요! : 
+정기고, 김준원 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61854</link>
+            <guid>https://vibe.naver.com/magazines/61854</guid>
+            <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61854" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="한국 알앤비? 여기요! : 
+정기고, 김준원"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61854" data-title="한국 알앤비? 여기요! : 정기고, 김준원" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61854" class="title">한국 알앤비? 여기요! : 
+정기고, 김준원</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.13 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #133 
@@ -170,16 +170,6 @@ TXT, 켄드릭 라마</a><div data-v-6937534c="" class="sub"><span data-v-693753
 임영웅, 잭 할로우</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.09 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NEXTREND : 
-LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61453</link>
-            <guid>https://vibe.naver.com/magazines/61453</guid>
-            <pubDate>Mon, 02 May 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61453" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="NEXTREND : 
-LE SSERAFIM(르세라핌)"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61453" data-title="NEXTREND : LE SSERAFIM(르세라핌)" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61453" class="title">NEXTREND : 
-LE SSERAFIM(르세라핌)</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.02 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[New Release #90 : 
 몬스타엑스, 샘 스미스 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/61530</link>
@@ -188,6 +178,16 @@ LE SSERAFIM(르세라핌)</a><div data-v-6937534c="" class="sub"><span data-v-69
             <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61530" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #90 : 
 몬스타엑스, 샘 스미스"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61530" data-title="New Release #90 : 몬스타엑스, 샘 스미스" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61530" class="title">New Release #90 : 
 몬스타엑스, 샘 스미스</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.02 </span><!----></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NEXTREND : 
+LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61453</link>
+            <guid>https://vibe.naver.com/magazines/61453</guid>
+            <pubDate>Mon, 02 May 2022 09:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61453" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="NEXTREND : 
+LE SSERAFIM(르세라핌)"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61453" data-title="NEXTREND : LE SSERAFIM(르세라핌)" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61453" class="title">NEXTREND : 
+LE SSERAFIM(르세라핌)</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.02 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 힙합/알앤비 이즈 고 : 
