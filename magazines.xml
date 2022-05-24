@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월의 느낌, 
+당신의 느낌은 어땠나요?]]></title>
+            <link>https://vibe.naver.com/magazines/62112</link>
+            <guid>https://vibe.naver.com/magazines/62112</guid>
+            <pubDate>Tue, 24 May 2022 05:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.20]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220218_148/1645165374099ORgFN_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AB6IX, 
 돌아온 구원자여]]></title>
@@ -32,7 +41,6 @@ TXT, 켄드릭 라마]]></title>
             <guid>https://vibe.naver.com/magazines/61904</guid>
             <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.16]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220516_253/1652687236924IK2Rt_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 알앤비? 여기요! : 
@@ -97,14 +105,6 @@ LE SSERAFIM(르세라핌)]]></title>
             <guid>https://vibe.naver.com/magazines/61206</guid>
             <pubDate>Mon, 25 Apr 2022 08:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.21]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밴드 설SURL 이 
-신보를 낸다는 설]]></title>
-            <link>https://vibe.naver.com/magazines/61103</link>
-            <guid>https://vibe.naver.com/magazines/61103</guid>
-            <pubDate>Fri, 22 Apr 2022 08:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.04.19]]></content:encoded>
         </item>
     </channel>
 </rss>
