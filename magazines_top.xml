@@ -4,17 +4,17 @@
         <title>VIBE ─ 매거진 TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 09:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 10:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[New Release #93 : 
-해리 스타일스, 예린]]></title>
-            <link>https://vibe.naver.com/magazines/62116</link>
-            <guid>https://vibe.naver.com/magazines/62116</guid>
-            <pubDate>Tue, 24 May 2022 05:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 반응을 일으킨 해리 스타일스부터 솔로 앨범으로 돌아온 예린. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220524_224/1653357956878m5KII_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[더 스토리 오브 
+강다니엘]]></title>
+            <link>https://vibe.naver.com/magazines/62117</link>
+            <guid>https://vibe.naver.com/magazines/62117</guid>
+            <pubDate>Tue, 24 May 2022 10:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[우린 이미 강다니엘의 이야기를 들을 준비가 됐고, 강다니엘은 괜한 파격이나 무의미한 시도 대신 가장 보통의 강다니엘에 대한 이야기를 첫 정규앨범의 주제로 선택했다. 덜어낸 무게만큼 진심만 담은 새 앨범에 대해 이야기했다.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220524_11/1653378164541AKKkq_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
