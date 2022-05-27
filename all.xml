@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 07:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 08:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62118</guid>
             <pubDate>Thu, 26 May 2022 09:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.26]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220526_269/1653551839375v95FB_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 스토리 오브 
@@ -233,7 +234,7 @@ LE SSERAFIM(르세라핌)</a><div data-v-6937534c="" class="sub"><span data-v-69
 블래스트, 샘파 (VIBE ─ 매거진 TOP)]]></title>
             <link>https://vibe.naver.com/magazines/62119</link>
             <guid>https://vibe.naver.com/magazines/62119</guid>
-            <pubDate>Fri, 27 May 2022 07:27:25 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 08:22:44 GMT</pubDate>
             <content:encoded><![CDATA[현시대 최고의 힙합 아티스트를 꼽으라고 한다면, 켄드릭 라마가 빠져서는 안 될 거다. 이런 켄드릭 라마가 새로운 앨범 &lt;Mr. Morale &amp; The Big Steppers&gt;을 들고 돌아왔다. 이번 앨범은 이전보다 더욱 켄드릭 라마의 개인적인 이야기가 담겨 있다. 켄드릭 라마의 5집에는 어떤 이들이 참여해 그의 이야기를 보탰을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220527_284/1653629578250gMMHa_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
