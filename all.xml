@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 08:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 09:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,6 @@
             <guid>https://vibe.naver.com/magazines/62116</guid>
             <pubDate>Tue, 24 May 2022 05:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.24]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220524_108/1653357954952QCxMi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5월의 느낌, 
