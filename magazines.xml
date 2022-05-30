@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 10:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 11:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[켄드릭 라마의 친구들은? : 
+블래스트, 샘파]]></title>
+            <link>https://vibe.naver.com/magazines/62119</link>
+            <guid>https://vibe.naver.com/magazines/62119</guid>
+            <pubDate>Mon, 30 May 2022 11:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.27]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220530_186/1653885056866GaY9F_JPEG/7556812.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실험적인 일렉트로닉 음악 : 
 새눈바탕, 김도언]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62116</guid>
             <pubDate>Wed, 25 May 2022 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.24]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220524_108/1653357954952QCxMi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5월의 느낌, 
@@ -96,14 +104,6 @@ LE SSERAFIM(르세라핌)]]></title>
             <link>https://vibe.naver.com/magazines/61453</link>
             <guid>https://vibe.naver.com/magazines/61453</guid>
             <pubDate>Tue, 10 May 2022 02:48:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #90 : 
-몬스타엑스, 샘 스미스]]></title>
-            <link>https://vibe.naver.com/magazines/61530</link>
-            <guid>https://vibe.naver.com/magazines/61530</guid>
-            <pubDate>Tue, 03 May 2022 06:21:17 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
         </item>
     </channel>
