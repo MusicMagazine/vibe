@@ -4,7 +4,7 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 03:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 04:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,21 +26,13 @@
             <enclosure url="https://music-phinf.pstatic.net/20220526_269/1653551839375v95FB_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 스토리 오브 
-강다니엘]]></title>
-            <link>https://vibe.naver.com/magazines/62117</link>
-            <guid>https://vibe.naver.com/magazines/62117</guid>
-            <pubDate>Thu, 26 May 2022 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.24]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220524_60/1653378162172McQpu_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[New Release #93 : 
 해리 스타일스, 예린]]></title>
             <link>https://vibe.naver.com/magazines/62116</link>
             <guid>https://vibe.naver.com/magazines/62116</guid>
             <pubDate>Wed, 25 May 2022 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.24]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220524_108/1653357954952QCxMi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5월의 느낌, 
@@ -104,6 +96,14 @@ LE SSERAFIM(르세라핌)]]></title>
             <link>https://vibe.naver.com/magazines/61453</link>
             <guid>https://vibe.naver.com/magazines/61453</guid>
             <pubDate>Tue, 10 May 2022 02:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Release #90 : 
+몬스타엑스, 샘 스미스]]></title>
+            <link>https://vibe.naver.com/magazines/61530</link>
+            <guid>https://vibe.naver.com/magazines/61530</guid>
+            <pubDate>Tue, 07 Jun 2022 04:26:00 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
         </item>
     </channel>
