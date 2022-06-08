@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #135 
+오프라인 공연 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62121</link>
+            <guid>https://vibe.naver.com/magazines/62121</guid>
+            <pubDate>Wed, 08 Jun 2022 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220603_184/1654259574459LAehe_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Release #95 : 
 포스트 말론, 포레스텔라 (VIBE ─ 매거진)]]></title>
@@ -14,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62123</guid>
             <pubDate>Tue, 07 Jun 2022 10:23:43 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220607_81/1654588847279d9xSY_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #94 : 
@@ -97,12 +107,15 @@ TXT, 켄드릭 라마 (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.10]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #91 : 
-임영웅, 잭 할로우 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61755</link>
-            <guid>https://vibe.naver.com/magazines/61755</guid>
-            <pubDate>Mon, 09 May 2022 10:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.09]]></content:encoded>
+            <title><![CDATA[이주의 디깅 #135 
+오프라인 공연 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62121</link>
+            <guid>https://vibe.naver.com/magazines/62121</guid>
+            <pubDate>Wed, 08 Jun 2022 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/62121" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="https://music-phinf.pstatic.net/20220603_184/1654259574459LAehe_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="이주의 디깅 #135 
+오프라인 공연"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62121" data-title="이주의 디깅 #135 오프라인 공연" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/62121" class="title">이주의 디깅 #135 
+오프라인 공연</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.06.07 </span><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220603_184/1654259574459LAehe_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #95 : 
@@ -132,10 +145,9 @@ TXT, 켄드릭 라마 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62119</link>
             <guid>https://vibe.naver.com/magazines/62119</guid>
             <pubDate>Fri, 27 May 2022 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/62119" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="https://music-phinf.pstatic.net/20220530_186/1653885056866GaY9F_JPEG/7556812.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="켄드릭 라마의 친구들은? : 
+            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/62119" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="켄드릭 라마의 친구들은? : 
 블래스트, 샘파"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62119" data-title="켄드릭 라마의 친구들은? : 블래스트, 샘파" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/62119" class="title">켄드릭 라마의 친구들은? : 
 블래스트, 샘파</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.27 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220530_186/1653885056866GaY9F_JPEG/7556812.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실험적인 일렉트로닉 음악 : 
@@ -218,23 +230,13 @@ TXT, 켄드릭 라마</a><div data-v-6937534c="" class="sub"><span data-v-693753
 싸이</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.10 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #91 : 
-임영웅, 잭 할로우 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61755</link>
-            <guid>https://vibe.naver.com/magazines/61755</guid>
-            <pubDate>Mon, 09 May 2022 10:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-6937534c="" class="thumb_area"><a data-v-6937534c="" href="/magazines/61755" class="link"><div data-v-6937534c="" class="thumb"><img data-v-4dcb5b96="" data-v-6937534c="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #91 : 
-임영웅, 잭 할로우"></div></a><a data-v-100a6273="" data-v-6937534c="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-6937534c="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/61755" data-title="New Release #91 : 임영웅, 잭 할로우" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-6937534c="" class="info"><a data-v-6937534c="" href="/magazines/61755" class="title">New Release #91 : 
-임영웅, 잭 할로우</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="item"><span data-v-6937534c="" class="blind">작성일</span> 2022.05.09 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #135 
-오프라인 공연 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62121</link>
-            <guid>https://vibe.naver.com/magazines/62121</guid>
-            <pubDate>Wed, 08 Jun 2022 07:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[마침내 모두의 마음을 무겁게 짓눌렀던 거리두기가 해제되고 바야흐로 페스티벌의 시즌이 찾아왔다. 길면 길다고도, 짧으면 짧다고 할 수 있는 2년이었지만, 오프라인으로 공연을 즐기던 음악 팬에게는 엄청난 인내와 고통의 시간이었을 거다. 다행히도 이미 많은 오프라인 공연이 무사히 열렸고, 6월에도 야외 공연과 음악 축제 소식이 이어지고 있다.]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220603_192/1654259576185sMy1W_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[Lost & Found 
+in Dvwn (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62124</link>
+            <guid>https://vibe.naver.com/magazines/62124</guid>
+            <pubDate>Wed, 08 Jun 2022 08:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[코즈 엔터테인먼트 소속 1호 가수라는 설명보다는 트렌디한 리스너들 틈에서 무럭무럭 자라는 이름이라는 게 더 맞겠다. 정작 다운은 담담하게 들려주고 싶은 노래들을 만들지만. 방향을 잃었다가도 묘하게 제 자리를 찾아오는 다운의 머릿 속 감성 그대로, 3곡이 담긴 앨범.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220608_115/165466126569022KhG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴이 서울 콘서트 전석 매진을 기록했습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
