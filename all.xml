@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 06:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 07:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,6 @@
             <guid>https://vibe.naver.com/magazines/62120</guid>
             <pubDate>Mon, 30 May 2022 11:16:19 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.30]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220530_63/1653903998065BKmSH_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[켄드릭 라마의 친구들은? : 
