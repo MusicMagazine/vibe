@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놓치면 아쉬워! : 
+린린, 문수진]]></title>
+            <link>https://vibe.naver.com/magazines/62128</link>
+            <guid>https://vibe.naver.com/magazines/62128</guid>
+            <pubDate>Fri, 17 Jun 2022 08:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.16]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220616_277/1655362939621PyOYm_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #136 
 포스트 말론]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62122</guid>
             <pubDate>Mon, 13 Jun 2022 10:21:06 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.09]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220607_138/1654580017702n7Y0m_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lost & Found 
@@ -97,14 +105,6 @@ in Dvwn]]></title>
             <guid>https://vibe.naver.com/magazines/62112</guid>
             <pubDate>Tue, 24 May 2022 05:21:41 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.20]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX, 
-돌아온 구원자여]]></title>
-            <link>https://vibe.naver.com/magazines/62026</link>
-            <guid>https://vibe.naver.com/magazines/62026</guid>
-            <pubDate>Sun, 22 May 2022 16:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.18]]></content:encoded>
         </item>
     </channel>
 </rss>
