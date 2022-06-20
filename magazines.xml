@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 08:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 09:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월의 느낌, 
+당신의 느낌은 어땠나요?]]></title>
+            <link>https://vibe.naver.com/magazines/62129</link>
+            <guid>https://vibe.naver.com/magazines/62129</guid>
+            <pubDate>Mon, 20 Jun 2022 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.17]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[놓치면 아쉬워! : 
 린린, 문수진]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62125</guid>
             <pubDate>Wed, 15 Jun 2022 01:25:51 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.13]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220613_203/1655111023621lPCst_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑과 갈등 사이 : 
@@ -97,14 +104,6 @@ in Dvwn]]></title>
             <guid>https://vibe.naver.com/magazines/62116</guid>
             <pubDate>Wed, 25 May 2022 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.24]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[5월의 느낌, 
-당신의 느낌은 어땠나요?]]></title>
-            <link>https://vibe.naver.com/magazines/62112</link>
-            <guid>https://vibe.naver.com/magazines/62112</guid>
-            <pubDate>Tue, 24 May 2022 05:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.20]]></content:encoded>
         </item>
     </channel>
 </rss>
