@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 01:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62126</guid>
             <pubDate>Wed, 15 Jun 2022 01:26:07 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.14]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220614_160/1655182791224HQjaS_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #96 : 
@@ -31,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62125</guid>
             <pubDate>Mon, 13 Jun 2022 10:21:21 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.13]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220613_203/1655111023621lPCst_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑과 갈등 사이 : 
@@ -237,6 +239,14 @@ in Dvwn</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="i
             <enclosure url="https://music-phinf.pstatic.net/20220617_121/1655444907773WrPxt_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마마무가 8주년을 맞아 완전체 컴백을 예고했습니다 관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
+            <link>https://www.edaily.co.kr/news/read?newsId=01174246632363688&amp;mediaCodeNo=258</link>
+            <guid>https://www.edaily.co.kr/news/read?newsId=01174246632363688&amp;mediaCodeNo=258</guid>
+            <pubDate>Mon, 20 Jun 2022 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[마마무가 8주년을 맞아 완전체 컴백을 예고했습니다 <span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
+        </item>
+        <item>
             <title><![CDATA[임영웅이 오는 8월 서울 콘서트를 개최합니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
             <link>https://www.news1.kr/articles/?4713258</link>
             <guid>https://www.news1.kr/articles/?4713258</guid>
@@ -298,14 +308,6 @@ in Dvwn</a><div data-v-6937534c="" class="sub"><span data-v-6937534c="" class="i
             <guid>http://www.heraldpop.com/view.php?ud=202206070900423723111_1</guid>
             <pubDate>Thu, 16 Jun 2022 11:13:53 GMT</pubDate>
             <content:encoded><![CDATA[에스파가 미국에서 쇼케이스를 개최합니다 <span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY가 새 앨범 발매와 함께 첫 월드투어를 개최할 예정입니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
-            <link>http://www.heraldpop.com/view.php?ud=202206020805411216717_1</link>
-            <guid>http://www.heraldpop.com/view.php?ud=202206020805411216717_1</guid>
-            <pubDate>Thu, 16 Jun 2022 11:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY가 새 앨범 발매와 함께 첫 월드투어를 개최할 예정입니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
         </item>
     </channel>
