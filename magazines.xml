@@ -4,16 +4,25 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEXTREND : 
+Lapillus(라필루스)]]></title>
+            <link>https://vibe.naver.com/magazines/62130</link>
+            <guid>https://vibe.naver.com/magazines/62130</guid>
+            <pubDate>Tue, 21 Jun 2022 08:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.20]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220620_8/1655703729710I054C_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월의 느낌, 
 당신의 느낌은 어땠나요?]]></title>
             <link>https://vibe.naver.com/magazines/62129</link>
             <guid>https://vibe.naver.com/magazines/62129</guid>
             <pubDate>Mon, 20 Jun 2022 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.17]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.17]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220617_178/1655444905726yDdJw_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -22,7 +31,7 @@
             <link>https://vibe.naver.com/magazines/62128</link>
             <guid>https://vibe.naver.com/magazines/62128</guid>
             <pubDate>Fri, 17 Jun 2022 08:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.16]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.16]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220616_277/1655362939621PyOYm_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -31,8 +40,7 @@
             <link>https://vibe.naver.com/magazines/62126</link>
             <guid>https://vibe.naver.com/magazines/62126</guid>
             <pubDate>Thu, 16 Jun 2022 09:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.14]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220614_160/1655182791224HQjaS_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.14]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[New Release #96 : 
@@ -40,7 +48,7 @@
             <link>https://vibe.naver.com/magazines/62125</link>
             <guid>https://vibe.naver.com/magazines/62125</guid>
             <pubDate>Wed, 15 Jun 2022 01:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.13]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.13]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사랑과 갈등 사이 : 
@@ -48,7 +56,7 @@
             <link>https://vibe.naver.com/magazines/62122</link>
             <guid>https://vibe.naver.com/magazines/62122</guid>
             <pubDate>Mon, 13 Jun 2022 10:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.09]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.09]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Lost & Found 
@@ -56,7 +64,7 @@ in Dvwn]]></title>
             <link>https://vibe.naver.com/magazines/62124</link>
             <guid>https://vibe.naver.com/magazines/62124</guid>
             <pubDate>Mon, 13 Jun 2022 11:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.08]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.08]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #135 
@@ -64,7 +72,7 @@ in Dvwn]]></title>
             <link>https://vibe.naver.com/magazines/62121</link>
             <guid>https://vibe.naver.com/magazines/62121</guid>
             <pubDate>Mon, 13 Jun 2022 09:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[New Release #95 : 
@@ -72,7 +80,7 @@ in Dvwn]]></title>
             <link>https://vibe.naver.com/magazines/62123</link>
             <guid>https://vibe.naver.com/magazines/62123</guid>
             <pubDate>Wed, 08 Jun 2022 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[New Release #94 : 
@@ -80,7 +88,7 @@ in Dvwn]]></title>
             <link>https://vibe.naver.com/magazines/62120</link>
             <guid>https://vibe.naver.com/magazines/62120</guid>
             <pubDate>Tue, 07 Jun 2022 10:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.30]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.05.30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[켄드릭 라마의 친구들은? : 
@@ -88,7 +96,7 @@ in Dvwn]]></title>
             <link>https://vibe.naver.com/magazines/62119</link>
             <guid>https://vibe.naver.com/magazines/62119</guid>
             <pubDate>Mon, 30 May 2022 11:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.27]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.05.27]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[실험적인 일렉트로닉 음악 : 
@@ -96,15 +104,7 @@ in Dvwn]]></title>
             <link>https://vibe.naver.com/magazines/62118</link>
             <guid>https://vibe.naver.com/magazines/62118</guid>
             <pubDate>Fri, 27 May 2022 08:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #93 : 
-해리 스타일스, 예린]]></title>
-            <link>https://vibe.naver.com/magazines/62116</link>
-            <guid>https://vibe.naver.com/magazines/62116</guid>
-            <pubDate>Wed, 25 May 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.24]]></content:encoded>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.05.26]]></content:encoded>
         </item>
     </channel>
 </rss>
