@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 09:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 유행 : 
+블라세, 김상민]]></title>
+            <link>https://vibe.naver.com/magazines/62136</link>
+            <guid>https://vibe.naver.com/magazines/62136</guid>
+            <pubDate>Wed, 29 Jun 2022 10:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220629_275/16564835067669qydi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Release #98 : 
 나연, 비욘세]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62131</guid>
             <pubDate>Wed, 22 Jun 2022 09:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.21]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220621_151/1655795307789RQ8E1_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[NEXTREND : 
@@ -96,14 +104,6 @@ in Dvwn]]></title>
             <link>https://vibe.naver.com/magazines/62121</link>
             <guid>https://vibe.naver.com/magazines/62121</guid>
             <pubDate>Mon, 13 Jun 2022 09:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #95 : 
-포스트 말론, 포레스텔라]]></title>
-            <link>https://vibe.naver.com/magazines/62123</link>
-            <guid>https://vibe.naver.com/magazines/62123</guid>
-            <pubDate>Wed, 08 Jun 2022 07:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
         </item>
     </channel>
