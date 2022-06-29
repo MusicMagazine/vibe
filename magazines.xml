@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #98 : 
+나연, 비욘세]]></title>
+            <link>https://vibe.naver.com/magazines/62133</link>
+            <guid>https://vibe.naver.com/magazines/62133</guid>
+            <pubDate>Wed, 29 Jun 2022 07:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.27]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220627_177/16563139866057zJcA_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
 이달의 소녀]]></title>
@@ -32,7 +41,6 @@ Lapillus(라필루스)]]></title>
             <guid>https://vibe.naver.com/magazines/62130</guid>
             <pubDate>Tue, 21 Jun 2022 08:31:44 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.20]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220620_8/1655703729710I054C_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월의 느낌, 
@@ -97,14 +105,6 @@ in Dvwn]]></title>
             <guid>https://vibe.naver.com/magazines/62123</guid>
             <pubDate>Wed, 08 Jun 2022 07:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #94 : 
-세븐틴, 캘빈 해리스]]></title>
-            <link>https://vibe.naver.com/magazines/62120</link>
-            <guid>https://vibe.naver.com/magazines/62120</guid>
-            <pubDate>Tue, 07 Jun 2022 10:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.05.30]]></content:encoded>
         </item>
     </channel>
 </rss>
