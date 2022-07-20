@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 15:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 16:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62150</guid>
             <pubDate>Wed, 20 Jul 2022 05:23:16 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.19]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220719_126/165821303949324z23_GIF/%C4%BF%B9%F64.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[New Release #101 : 
@@ -22,6 +23,7 @@ ITZY, 리조 (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62149</guid>
             <pubDate>Mon, 18 Jul 2022 08:27:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.18]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220719_58/1658224100236j4fT7_JPEG/%C1%A4%B9%E6%C7%FC.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아프로팝의 문익점들 : 
@@ -30,6 +32,7 @@ ITZY, 리조 (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62148</guid>
             <pubDate>Fri, 15 Jul 2022 09:17:11 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.15]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220715_231/1657869369528kDuXH_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7월의 느낌, 
