@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEXTREND : 
+Xdinary Heroes]]></title>
+            <link>https://vibe.naver.com/magazines/62151</link>
+            <guid>https://vibe.naver.com/magazines/62151</guid>
+            <pubDate>Mon, 25 Jul 2022 08:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.19]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220720_200/16583009794211TW0J_PNG/dg12nxt_05%C7%C3%B7%B9%C0%CC%B8%AE%BD%BA%C6%AE%C4%BF%B9%F6.png?type=w720" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[낯선 이들에게 건네는 
 따스한 인사, 이나래]]></title>
@@ -32,7 +41,6 @@ ITZY, 리조]]></title>
             <guid>https://vibe.naver.com/magazines/62148</guid>
             <pubDate>Mon, 18 Jul 2022 08:27:16 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.15]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220715_231/1657869369528kDuXH_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7월의 느낌, 
@@ -97,14 +105,6 @@ j-hope]]></title>
             <guid>https://vibe.naver.com/magazines/62134</guid>
             <pubDate>Thu, 30 Jun 2022 08:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SAAY, 
-뜨거운 여름의 차가운 사랑]]></title>
-            <link>https://vibe.naver.com/magazines/62135</link>
-            <guid>https://vibe.naver.com/magazines/62135</guid>
-            <pubDate>Wed, 29 Jun 2022 15:48:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.29]]></content:encoded>
         </item>
     </channel>
 </rss>
