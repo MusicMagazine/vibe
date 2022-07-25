@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 13:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 14:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,7 @@ ITZY, 리조 (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62149</guid>
             <pubDate>Mon, 18 Jul 2022 08:27:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.18]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220719_58/1658224100236j4fT7_JPEG/%C1%A4%B9%E6%C7%FC.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아프로팝의 문익점들 : 
