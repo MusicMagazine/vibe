@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유키스 
+수현답게]]></title>
+            <link>https://vibe.naver.com/magazines/62157</link>
+            <guid>https://vibe.naver.com/magazines/62157</guid>
+            <pubDate>Fri, 05 Aug 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.03]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[New Release #103 : 
 비욘세, 지코]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62154</guid>
             <pubDate>Fri, 29 Jul 2022 10:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220729_43/1659058730338QIswP_JPEG/%C8%FC%C7%D5%BF%A4%C0%CC-1.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #139 
@@ -97,14 +104,6 @@ ITZY, 리조]]></title>
             <guid>https://vibe.naver.com/magazines/62146</guid>
             <pubDate>Fri, 15 Jul 2022 09:16:55 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.13]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #138 
-j-hope]]></title>
-            <link>https://vibe.naver.com/magazines/62145</link>
-            <guid>https://vibe.naver.com/magazines/62145</guid>
-            <pubDate>Wed, 13 Jul 2022 08:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.12]]></content:encoded>
         </item>
     </channel>
 </rss>
