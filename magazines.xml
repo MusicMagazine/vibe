@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 09:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 10:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로듀서의 음반 : 
+프라이머리, 250]]></title>
+            <link>https://vibe.naver.com/magazines/62158</link>
+            <guid>https://vibe.naver.com/magazines/62158</guid>
+            <pubDate>Mon, 08 Aug 2022 10:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.04]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220804_140/1659592893545xCz0J_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유키스 
 수현답게]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62155</guid>
             <pubDate>Mon, 01 Aug 2022 10:19:28 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220729_285/1659074400786qQz7P_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로듀서 777 : 
@@ -97,14 +105,6 @@ ITZY, 리조]]></title>
             <guid>https://vibe.naver.com/magazines/62147</guid>
             <pubDate>Mon, 18 Jul 2022 08:27:16 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.15]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프로미스나인, 
-찬란한 서머송]]></title>
-            <link>https://vibe.naver.com/magazines/62146</link>
-            <guid>https://vibe.naver.com/magazines/62146</guid>
-            <pubDate>Fri, 15 Jul 2022 09:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.13]]></content:encoded>
         </item>
     </channel>
 </rss>
