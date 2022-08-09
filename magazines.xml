@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #104 : 
+소녀시대, 뉴진스]]></title>
+            <link>https://vibe.naver.com/magazines/62159</link>
+            <guid>https://vibe.naver.com/magazines/62159</guid>
+            <pubDate>Tue, 09 Aug 2022 09:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.08]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[프로듀서의 음반 : 
 프라이머리, 250]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62156</guid>
             <pubDate>Wed, 03 Aug 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.01]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220801_207/1659341740934nQkjW_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[완전히 달라진 뉴월드, 
@@ -95,14 +102,6 @@ ITZY, 리조]]></title>
 드레이크, 저스틴 비버]]></title>
             <link>https://vibe.naver.com/magazines/62148</link>
             <guid>https://vibe.naver.com/magazines/62148</guid>
-            <pubDate>Mon, 18 Jul 2022 08:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.15]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[7월의 느낌, 
-당신의 느낌은 어땠나요?]]></title>
-            <link>https://vibe.naver.com/magazines/62147</link>
-            <guid>https://vibe.naver.com/magazines/62147</guid>
             <pubDate>Mon, 18 Jul 2022 08:27:16 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.07.15]]></content:encoded>
         </item>
