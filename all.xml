@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 04:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 05:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62163</guid>
             <pubDate>Tue, 16 Aug 2022 10:18:29 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.16]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220816_247/1660630576973L4mRV_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비욘세의 도우미들 : 
@@ -23,7 +22,6 @@
             <guid>https://vibe.naver.com/magazines/62162</guid>
             <pubDate>Fri, 12 Aug 2022 08:21:44 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.12]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220812_60/1660288810091qISgI_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
