@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반전의 
+이진혁 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62168</link>
+            <guid>https://vibe.naver.com/magazines/62168</guid>
+            <pubDate>Mon, 29 Aug 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220829_103/1661759482697fi5rQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Release #107 : 
 아이브, 디제이 칼리드 (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@ IVE(아이브) (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62165</guid>
             <pubDate>Wed, 24 Aug 2022 09:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.22]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220822_264/1661156032108vgCRi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8월의 느낌, 
@@ -99,12 +107,15 @@ NewJeans (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.03]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #103 : 
-비욘세, 지코 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62156</link>
-            <guid>https://vibe.naver.com/magazines/62156</guid>
-            <pubDate>Wed, 24 Aug 2022 09:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.01]]></content:encoded>
+            <title><![CDATA[반전의 
+이진혁 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62168</link>
+            <guid>https://vibe.naver.com/magazines/62168</guid>
+            <pubDate>Mon, 29 Aug 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62168" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="https://music-phinf.pstatic.net/20220829_103/1661759482697fi5rQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="반전의 
+이진혁"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62168" data-title="반전의 이진혁" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62168" class="title">반전의 
+이진혁</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.08.29 </span><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220829_103/1661759482697fi5rQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #107 : 
@@ -134,10 +145,9 @@ IVE(아이브)</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" c
             <link>https://vibe.naver.com/magazines/62165</link>
             <guid>https://vibe.naver.com/magazines/62165</guid>
             <pubDate>Wed, 24 Aug 2022 09:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62165" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="https://music-phinf.pstatic.net/20220822_264/1661156032108vgCRi_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #106 : 
+            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62165" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #106 : 
 블랙핑크, NCT 재현"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62165" data-title="New Release #106 : 블랙핑크, NCT 재현" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62165" class="title">New Release #106 : 
 블랙핑크, NCT 재현</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.08.22 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220822_264/1661156032108vgCRi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8월의 느낌, 
@@ -220,23 +230,13 @@ NewJeans</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="
 수현답게</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.08.03 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #103 : 
-비욘세, 지코 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62156</link>
-            <guid>https://vibe.naver.com/magazines/62156</guid>
-            <pubDate>Wed, 24 Aug 2022 09:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62156" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #103 : 
-비욘세, 지코"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62156" data-title="New Release #103 : 비욘세, 지코" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62156" class="title">New Release #103 : 
-비욘세, 지코</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.08.01 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반전의 
-이진혁 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62168</link>
-            <guid>https://vibe.naver.com/magazines/62168</guid>
-            <pubDate>Mon, 29 Aug 2022 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[밝고 긍정적인 MBTI 확신의 E 유형, 지금까지 우리가 사랑한 이진혁은 여기 없다. 대신 혼란스러운 감정 속에 빠진, 깊고 강렬하게 섹시한 이진혁의 새로운 다음 챕터가 열릴 참이다. 신곡 ‘Crack’을 발매하며 자연스레 흘러나온 성숙미와 함께 새 변신을 시도한 이진혁과 나눈 인터뷰.]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220829_249/1661759485488YiJT9_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[NEXTREND : 
+Billlie(빌리) (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62169</link>
+            <guid>https://vibe.naver.com/magazines/62169</guid>
+            <pubDate>Wed, 31 Aug 2022 09:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이번에 선정된 아티스트는 장르의 한계를 뛰어넘는 중독성과 함께 더 확장된 세계관으로 돌아온 독보적 스토리텔링 아이돌, Billlie(빌리) 입니다.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220831_262/1661917889043K06LD_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오메가엑스가 오리콘 데일리 앨범 차트 4위를 기록했습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
