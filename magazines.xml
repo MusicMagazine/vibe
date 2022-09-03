@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 08:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 09:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEXTREND : 
+Billlie(빌리)]]></title>
+            <link>https://vibe.naver.com/magazines/62169</link>
+            <guid>https://vibe.naver.com/magazines/62169</guid>
+            <pubDate>Sat, 03 Sep 2022 09:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.31]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220831_241/1661917887127YetJ4_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반전의 
 이진혁]]></title>
@@ -32,7 +41,6 @@ IVE(아이브)]]></title>
             <guid>https://vibe.naver.com/magazines/62166</guid>
             <pubDate>Mon, 29 Aug 2022 08:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.23]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220823_47/166123579166242Rog_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #106 : 
@@ -97,14 +105,6 @@ NewJeans]]></title>
             <guid>https://vibe.naver.com/magazines/62158</guid>
             <pubDate>Mon, 08 Aug 2022 10:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.04]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유키스 
-수현답게]]></title>
-            <link>https://vibe.naver.com/magazines/62157</link>
-            <guid>https://vibe.naver.com/magazines/62157</guid>
-            <pubDate>Fri, 05 Aug 2022 09:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.03]]></content:encoded>
         </item>
     </channel>
 </rss>
