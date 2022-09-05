@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 08:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름이었다. : 
+신스, DPR 이안]]></title>
+            <link>https://vibe.naver.com/magazines/62170</link>
+            <guid>https://vibe.naver.com/magazines/62170</guid>
+            <pubDate>Mon, 05 Sep 2022 08:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.02]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220902_226/1662115928994uaHPF_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEXTREND : 
 Billlie(빌리)]]></title>
@@ -32,7 +41,6 @@ Billlie(빌리)]]></title>
             <guid>https://vibe.naver.com/magazines/62167</guid>
             <pubDate>Mon, 29 Aug 2022 09:17:18 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220829_124/1661758168767euRJ2_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #141 
@@ -97,14 +105,6 @@ NewJeans]]></title>
             <guid>https://vibe.naver.com/magazines/62159</guid>
             <pubDate>Tue, 09 Aug 2022 09:17:54 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프로듀서의 음반 : 
-프라이머리, 250]]></title>
-            <link>https://vibe.naver.com/magazines/62158</link>
-            <guid>https://vibe.naver.com/magazines/62158</guid>
-            <pubDate>Mon, 08 Aug 2022 10:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.04]]></content:encoded>
         </item>
     </channel>
 </rss>
