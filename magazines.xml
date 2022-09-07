@@ -1,104 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vibe.naver.com/magazines</id>
-    <title>VIBE ─ 매거진</title>
-    <updated>2022-09-07T14:25:49.281Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[New Release #108 : 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>VIBE ─ 매거진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 07 Sep 2022 15:19:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #108 : 
 키, 찰리 푸스]]></title>
-        <id>https://vibe.naver.com/magazines/62172</id>
-        <link href="https://vibe.naver.com/magazines/62172"/>
-        <updated>2022-09-06T10:20:04.185Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그리운 
+            <link>https://vibe.naver.com/magazines/62172</link>
+            <guid>https://vibe.naver.com/magazines/62172</guid>
+            <pubDate>Tue, 06 Sep 2022 10:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220905_282/166236298167544mXd_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그리운 
 혼성듀오 음악]]></title>
-        <id>https://vibe.naver.com/magazines/62171</id>
-        <link href="https://vibe.naver.com/magazines/62171"/>
-        <updated>2022-09-05T09:18:35.880Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름이었다. : 
+            <link>https://vibe.naver.com/magazines/62171</link>
+            <guid>https://vibe.naver.com/magazines/62171</guid>
+            <pubDate>Mon, 05 Sep 2022 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220905_142/1662361496486jztNn_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름이었다. : 
 신스, DPR 이안]]></title>
-        <id>https://vibe.naver.com/magazines/62170</id>
-        <link href="https://vibe.naver.com/magazines/62170"/>
-        <updated>2022-09-05T08:21:25.562Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEXTREND : 
+            <link>https://vibe.naver.com/magazines/62170</link>
+            <guid>https://vibe.naver.com/magazines/62170</guid>
+            <pubDate>Mon, 05 Sep 2022 08:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.02]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220902_226/1662115928994uaHPF_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEXTREND : 
 Billlie(빌리)]]></title>
-        <id>https://vibe.naver.com/magazines/62169</id>
-        <link href="https://vibe.naver.com/magazines/62169"/>
-        <updated>2022-09-03T09:16:09.502Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반전의 
+            <link>https://vibe.naver.com/magazines/62169</link>
+            <guid>https://vibe.naver.com/magazines/62169</guid>
+            <pubDate>Sat, 03 Sep 2022 09:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[반전의 
 이진혁]]></title>
-        <id>https://vibe.naver.com/magazines/62168</id>
-        <link href="https://vibe.naver.com/magazines/62168"/>
-        <updated>2022-08-31T09:18:36.168Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release #107 : 
+            <link>https://vibe.naver.com/magazines/62168</link>
+            <guid>https://vibe.naver.com/magazines/62168</guid>
+            <pubDate>Wed, 31 Aug 2022 09:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.29]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Release #107 : 
 아이브, 디제이 칼리드]]></title>
-        <id>https://vibe.naver.com/magazines/62167</id>
-        <link href="https://vibe.naver.com/magazines/62167"/>
-        <updated>2022-08-29T09:17:18.149Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주의 디깅 #141 
+            <link>https://vibe.naver.com/magazines/62167</link>
+            <guid>https://vibe.naver.com/magazines/62167</guid>
+            <pubDate>Mon, 29 Aug 2022 09:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.29]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이주의 디깅 #141 
 IVE(아이브)]]></title>
-        <id>https://vibe.naver.com/magazines/62166</id>
-        <link href="https://vibe.naver.com/magazines/62166"/>
-        <updated>2022-08-29T08:21:43.548Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release #106 : 
+            <link>https://vibe.naver.com/magazines/62166</link>
+            <guid>https://vibe.naver.com/magazines/62166</guid>
+            <pubDate>Mon, 29 Aug 2022 08:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.23]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Release #106 : 
 블랙핑크, NCT 재현]]></title>
-        <id>https://vibe.naver.com/magazines/62165</id>
-        <link href="https://vibe.naver.com/magazines/62165"/>
-        <updated>2022-08-23T08:22:03.459Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8월의 느낌, 
+            <link>https://vibe.naver.com/magazines/62165</link>
+            <guid>https://vibe.naver.com/magazines/62165</guid>
+            <pubDate>Tue, 23 Aug 2022 08:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.22]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8월의 느낌, 
 당신의 느낌은 어땠나요?]]></title>
-        <id>https://vibe.naver.com/magazines/62164</id>
-        <link href="https://vibe.naver.com/magazines/62164"/>
-        <updated>2022-08-22T09:16:51.505Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release #105 : 
+            <link>https://vibe.naver.com/magazines/62164</link>
+            <guid>https://vibe.naver.com/magazines/62164</guid>
+            <pubDate>Mon, 22 Aug 2022 09:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.18]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Release #105 : 
 이효리, 니키 미나즈]]></title>
-        <id>https://vibe.naver.com/magazines/62163</id>
-        <link href="https://vibe.naver.com/magazines/62163"/>
-        <updated>2022-08-18T10:20:27.101Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비욘세의 도우미들 : 
+            <link>https://vibe.naver.com/magazines/62163</link>
+            <guid>https://vibe.naver.com/magazines/62163</guid>
+            <pubDate>Thu, 18 Aug 2022 10:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.16]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비욘세의 도우미들 : 
 마돈나, 템즈]]></title>
-        <id>https://vibe.naver.com/magazines/62162</id>
-        <link href="https://vibe.naver.com/magazines/62162"/>
-        <updated>2022-08-16T10:18:13.404Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무엇이든 물어보세요 : 
+            <link>https://vibe.naver.com/magazines/62162</link>
+            <guid>https://vibe.naver.com/magazines/62162</guid>
+            <pubDate>Tue, 16 Aug 2022 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무엇이든 물어보세요 : 
 트라이비(TRI.BE)]]></title>
-        <id>https://vibe.naver.com/magazines/62161</id>
-        <link href="https://vibe.naver.com/magazines/62161"/>
-        <updated>2022-08-12T08:21:26.348Z</updated>
-        <content type="html"><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.09]]></content>
-    </entry>
-</feed>
+            <link>https://vibe.naver.com/magazines/62161</link>
+            <guid>https://vibe.naver.com/magazines/62161</guid>
+            <pubDate>Fri, 12 Aug 2022 08:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.09]]></content:encoded>
+        </item>
+    </channel>
+</rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 14:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 15:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62172</guid>
             <pubDate>Mon, 05 Sep 2022 09:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220905_282/166236298167544mXd_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리운 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62171</guid>
             <pubDate>Mon, 05 Sep 2022 08:21:42 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220905_142/1662361496486jztNn_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름이었다. : 
@@ -30,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62170</guid>
             <pubDate>Sat, 03 Sep 2022 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.02]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220902_226/1662115928994uaHPF_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NEXTREND : 
