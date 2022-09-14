@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 04:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 06:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어딘가 들어본 듯한 
+멜로디]]></title>
+            <link>https://vibe.naver.com/magazines/62174</link>
+            <guid>https://vibe.naver.com/magazines/62174</guid>
+            <pubDate>Wed, 14 Sep 2022 06:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.08]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220908_226/1662605061022Wn9kj_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #142 
 DJ 칼리드]]></title>
@@ -32,7 +41,6 @@ DJ 칼리드]]></title>
             <guid>https://vibe.naver.com/magazines/62171</guid>
             <pubDate>Mon, 05 Sep 2022 09:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220905_142/1662361496486jztNn_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름이었다. : 
@@ -97,14 +105,6 @@ IVE(아이브)]]></title>
             <guid>https://vibe.naver.com/magazines/62163</guid>
             <pubDate>Thu, 18 Aug 2022 10:20:27 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비욘세의 도우미들 : 
-마돈나, 템즈]]></title>
-            <link>https://vibe.naver.com/magazines/62162</link>
-            <guid>https://vibe.naver.com/magazines/62162</guid>
-            <pubDate>Tue, 16 Aug 2022 10:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.12]]></content:encoded>
         </item>
     </channel>
 </rss>
