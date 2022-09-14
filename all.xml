@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 09:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 10:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,7 @@
             <guid>https://vibe.naver.com/magazines/62174</guid>
             <pubDate>Thu, 08 Sep 2022 07:31:10 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.08]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220908_226/1662605061022Wn9kj_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #142 
