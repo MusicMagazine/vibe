@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 08:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #109 : 
+존 레전드, 이창섭]]></title>
+            <link>https://vibe.naver.com/magazines/62175</link>
+            <guid>https://vibe.naver.com/magazines/62175</guid>
+            <pubDate>Wed, 14 Sep 2022 09:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.14]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[어딘가 들어본 듯한 
 멜로디]]></title>
@@ -14,7 +22,6 @@
             <guid>https://vibe.naver.com/magazines/62174</guid>
             <pubDate>Wed, 14 Sep 2022 06:06:20 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.08]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220908_226/1662605061022Wn9kj_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #142 
@@ -32,7 +39,6 @@ DJ 칼리드]]></title>
             <guid>https://vibe.naver.com/magazines/62172</guid>
             <pubDate>Tue, 06 Sep 2022 10:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220905_282/166236298167544mXd_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리운 
@@ -97,14 +103,6 @@ IVE(아이브)]]></title>
             <guid>https://vibe.naver.com/magazines/62164</guid>
             <pubDate>Mon, 22 Aug 2022 09:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.18]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #105 : 
-이효리, 니키 미나즈]]></title>
-            <link>https://vibe.naver.com/magazines/62163</link>
-            <guid>https://vibe.naver.com/magazines/62163</guid>
-            <pubDate>Thu, 18 Aug 2022 10:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.16]]></content:encoded>
         </item>
     </channel>
 </rss>
