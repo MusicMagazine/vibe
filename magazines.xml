@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:28:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무엇이든 물어보세요 : 
+CIX]]></title>
+            <link>https://vibe.naver.com/magazines/62178</link>
+            <guid>https://vibe.naver.com/magazines/62178</guid>
+            <pubDate>Mon, 19 Sep 2022 08:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.16]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[9월의 느낌, 
 당신의 느낌은 어땠나요?]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62175</guid>
             <pubDate>Wed, 14 Sep 2022 09:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.14]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220914_253/1663128092268duSAO_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어딘가 들어본 듯한 
@@ -97,14 +104,6 @@ Billlie(빌리)]]></title>
             <guid>https://vibe.naver.com/magazines/62167</guid>
             <pubDate>Mon, 29 Aug 2022 09:17:18 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.29]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #141 
-IVE(아이브)]]></title>
-            <link>https://vibe.naver.com/magazines/62166</link>
-            <guid>https://vibe.naver.com/magazines/62166</guid>
-            <pubDate>Mon, 29 Aug 2022 08:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.23]]></content:encoded>
         </item>
     </channel>
 </rss>
