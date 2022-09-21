@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 23:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 02:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEXTREND : 
+NMIXX(엔믹스)]]></title>
+            <link>https://vibe.naver.com/magazines/62179</link>
+            <guid>https://vibe.naver.com/magazines/62179</guid>
+            <pubDate>Wed, 21 Sep 2022 02:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.19]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220919_277/166356882691771GF6_PNG/dh22nxb_05%C7%C3%B7%B9%C0%CC%B8%AE%BD%BA%C6%AE%C4%BF%B9%F6.png?type=w720" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Release #110 : 
 NCT 127, 블랙핑크]]></title>
@@ -32,7 +41,6 @@ CIX]]></title>
             <guid>https://vibe.naver.com/magazines/62177</guid>
             <pubDate>Fri, 16 Sep 2022 08:23:17 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.15]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220915_34/1663226297493nq6PN_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴&백, 
@@ -97,14 +105,6 @@ Billlie(빌리)]]></title>
             <guid>https://vibe.naver.com/magazines/62169</guid>
             <pubDate>Sat, 03 Sep 2022 09:16:09 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.31]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반전의 
-이진혁]]></title>
-            <link>https://vibe.naver.com/magazines/62168</link>
-            <guid>https://vibe.naver.com/magazines/62168</guid>
-            <pubDate>Wed, 31 Aug 2022 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.08.29]]></content:encoded>
         </item>
     </channel>
 </rss>
