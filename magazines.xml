@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 07:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 08:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼신인 
+라필루스]]></title>
+            <link>https://vibe.naver.com/magazines/62191</link>
+            <guid>https://vibe.naver.com/magazines/62191</guid>
+            <pubDate>Mon, 26 Sep 2022 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.22]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #143 
 BLACKPINK]]></title>
@@ -32,7 +40,6 @@ NCT 127, 블랙핑크]]></title>
             <guid>https://vibe.naver.com/magazines/62189</guid>
             <pubDate>Mon, 19 Sep 2022 10:22:01 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.19]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220919_93/1663573133439YG38b_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
@@ -97,14 +104,6 @@ DJ 칼리드]]></title>
             <guid>https://vibe.naver.com/magazines/62171</guid>
             <pubDate>Mon, 05 Sep 2022 09:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여름이었다. : 
-신스, DPR 이안]]></title>
-            <link>https://vibe.naver.com/magazines/62170</link>
-            <guid>https://vibe.naver.com/magazines/62170</guid>
-            <pubDate>Mon, 05 Sep 2022 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.02]]></content:encoded>
         </item>
     </channel>
 </rss>
