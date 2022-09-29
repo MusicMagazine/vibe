@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 08:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 09:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기이한 인연에서 
+귀한 인연으로]]></title>
+            <link>https://vibe.naver.com/magazines/62194</link>
+            <guid>https://vibe.naver.com/magazines/62194</guid>
+            <pubDate>Thu, 29 Sep 2022 09:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220929_264/1664428856028WxCou_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[pH-1과 함께 한 
 친구들은?]]></title>
@@ -32,7 +41,6 @@ NMIXX, 샘 스미스]]></title>
             <guid>https://vibe.naver.com/magazines/62191</guid>
             <pubDate>Mon, 26 Sep 2022 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.22]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220922_67/1663825992870edABB_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #143 
@@ -97,14 +105,6 @@ CIX]]></title>
             <guid>https://vibe.naver.com/magazines/62174</guid>
             <pubDate>Wed, 14 Sep 2022 06:06:20 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #142 
-DJ 칼리드]]></title>
-            <link>https://vibe.naver.com/magazines/62173</link>
-            <guid>https://vibe.naver.com/magazines/62173</guid>
-            <pubDate>Thu, 08 Sep 2022 07:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.06]]></content:encoded>
         </item>
     </channel>
 </rss>
