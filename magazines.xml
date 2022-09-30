@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 07:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 08:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EXID, 
+완전체]]></title>
+            <link>https://vibe.naver.com/magazines/62195</link>
+            <guid>https://vibe.naver.com/magazines/62195</guid>
+            <pubDate>Fri, 30 Sep 2022 08:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.29]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[기이한 인연에서 
 귀한 인연으로]]></title>
@@ -32,7 +40,6 @@ NMIXX, 샘 스미스]]></title>
             <guid>https://vibe.naver.com/magazines/62192</guid>
             <pubDate>Tue, 27 Sep 2022 06:59:44 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.26]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220926_161/1664175568173EUGA2_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼신인 
@@ -97,14 +104,6 @@ CIX]]></title>
             <guid>https://vibe.naver.com/magazines/62175</guid>
             <pubDate>Wed, 14 Sep 2022 09:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어딘가 들어본 듯한 
-멜로디]]></title>
-            <link>https://vibe.naver.com/magazines/62174</link>
-            <guid>https://vibe.naver.com/magazines/62174</guid>
-            <pubDate>Wed, 14 Sep 2022 06:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.08]]></content:encoded>
         </item>
     </channel>
 </rss>
