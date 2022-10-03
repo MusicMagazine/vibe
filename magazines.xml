@@ -4,7 +4,7 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 05:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 06:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62195</guid>
             <pubDate>Fri, 30 Sep 2022 08:32:42 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220929_159/1664432953105A2PG3_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기이한 인연에서 
