@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 08:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 09:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오직 김재중만 
+할 수 있는 장르]]></title>
+            <link>https://vibe.naver.com/magazines/62196</link>
+            <guid>https://vibe.naver.com/magazines/62196</guid>
+            <pubDate>Tue, 04 Oct 2022 09:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.30]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[EXID, 
 완전체]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62193</guid>
             <pubDate>Thu, 29 Sep 2022 06:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.27]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220927_281/1664258016193oKfXQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #111 : 
@@ -96,14 +103,6 @@ CIX]]></title>
             <link>https://vibe.naver.com/magazines/62176</link>
             <guid>https://vibe.naver.com/magazines/62176</guid>
             <pubDate>Thu, 15 Sep 2022 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #109 : 
-존 레전드, 이창섭]]></title>
-            <link>https://vibe.naver.com/magazines/62175</link>
-            <guid>https://vibe.naver.com/magazines/62175</guid>
-            <pubDate>Wed, 14 Sep 2022 09:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.14]]></content:encoded>
         </item>
     </channel>

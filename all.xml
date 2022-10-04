@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 08:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 09:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오직 김재중만 
+할 수 있는 장르 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62196</link>
+            <guid>https://vibe.naver.com/magazines/62196</guid>
+            <pubDate>Fri, 30 Sep 2022 08:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.30]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[EXID, 
 완전체 (VIBE ─ 매거진)]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62193</guid>
             <pubDate>Tue, 27 Sep 2022 07:00:01 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.27]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220927_281/1664258016193oKfXQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #111 : 
@@ -99,12 +106,15 @@ CIX (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.14]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #109 : 
-존 레전드, 이창섭 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62175</link>
-            <guid>https://vibe.naver.com/magazines/62175</guid>
-            <pubDate>Wed, 14 Sep 2022 06:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.14]]></content:encoded>
+            <title><![CDATA[오직 김재중만 
+할 수 있는 장르 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62196</link>
+            <guid>https://vibe.naver.com/magazines/62196</guid>
+            <pubDate>Fri, 30 Sep 2022 08:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62196" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="https://music-phinf.pstatic.net/20220930_274/1664519517364ymw0V_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="오직 김재중만 
+할 수 있는 장르"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62196" data-title="오직 김재중만 할 수 있는 장르" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62196" class="title">오직 김재중만 
+할 수 있는 장르</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.09.30 </span><!----></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220930_274/1664519517364ymw0V_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EXID, 
@@ -134,10 +144,9 @@ CIX (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62193</link>
             <guid>https://vibe.naver.com/magazines/62193</guid>
             <pubDate>Tue, 27 Sep 2022 07:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62193" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="https://music-phinf.pstatic.net/20220927_281/1664258016193oKfXQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="pH-1과 함께 한 
+            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62193" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="pH-1과 함께 한 
 친구들은?"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62193" data-title="pH-1과 함께 한 친구들은?" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62193" class="title">pH-1과 함께 한 
 친구들은?</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.09.27 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220927_281/1664258016193oKfXQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #111 : 
@@ -220,23 +229,13 @@ CIX</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"
 매몬의 귀환</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.09.14 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #109 : 
-존 레전드, 이창섭 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62175</link>
-            <guid>https://vibe.naver.com/magazines/62175</guid>
-            <pubDate>Wed, 14 Sep 2022 06:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62175" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #109 : 
-존 레전드, 이창섭"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62175" data-title="New Release #109 : 존 레전드, 이창섭" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62175" class="title">New Release #109 : 
-존 레전드, 이창섭</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.09.14 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오직 김재중만 
-할 수 있는 장르 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62196</link>
-            <guid>https://vibe.naver.com/magazines/62196</guid>
-            <pubDate>Fri, 30 Sep 2022 08:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[김재중이 선물 같은 새 앨범을 들고 돌아왔다. 세 번째 정규 앨범 &lt;BORN GENE&gt;을 통해 음악적으로 스스로의 정체성을 되짚어보는 건 물론, 팬들에게 전하는 진심 어린 마음으로 김재중만 선보일 수 있는 모든 장르를 소화했다. 예상치 못한 장르로 귀를 정화시키고 싶다면 김재중의 음악이 해답이다. – 글 주현욱, 포토 이승훈]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220930_12/1664519519345DMn2g_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[AB6IX, 
+도전엔 끝이 없지 (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62198</link>
+            <guid>https://vibe.naver.com/magazines/62198</guid>
+            <pubDate>Tue, 04 Oct 2022 09:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[코로나로 인해 오랫동안 직접 만나지 못한 팬들을 위한 공연을 성사시키며 자신감을 얻은 AB6IX는 그 기회를 새로운 음악적 도전으로 활용했다. 팬사랑의 좋은 예, 아티스트로 진화하는 아이돌의 좋은 예다.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221004_139/1664867957523hrgnA_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
