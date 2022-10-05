@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 07:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 08:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AB6IX, 
+도전엔 끝이 없지]]></title>
+            <link>https://vibe.naver.com/magazines/62198</link>
+            <guid>https://vibe.naver.com/magazines/62198</guid>
+            <pubDate>Wed, 05 Oct 2022 08:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.04]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221004_228/1664867955808EAMCu_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오직 김재중만 
 할 수 있는 장르]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62194</guid>
             <pubDate>Thu, 29 Sep 2022 09:25:18 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220929_264/1664428856028WxCou_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[pH-1과 함께 한 
@@ -97,14 +105,6 @@ CIX]]></title>
             <guid>https://vibe.naver.com/magazines/62177</guid>
             <pubDate>Fri, 16 Sep 2022 08:23:17 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.15]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[컴&백, 
-매몬의 귀환]]></title>
-            <link>https://vibe.naver.com/magazines/62176</link>
-            <guid>https://vibe.naver.com/magazines/62176</guid>
-            <pubDate>Thu, 15 Sep 2022 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.14]]></content:encoded>
         </item>
     </channel>
 </rss>
