@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 09:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 10:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #112 : 
+EXID, 파라모어]]></title>
+            <link>https://vibe.naver.com/magazines/62199</link>
+            <guid>https://vibe.naver.com/magazines/62199</guid>
+            <pubDate>Wed, 05 Oct 2022 10:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.05]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221005_249/1664940285277wodMz_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AB6IX, 
 도전엔 끝이 없지]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62195</guid>
             <pubDate>Fri, 30 Sep 2022 08:32:42 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220929_159/1664432953105A2PG3_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기이한 인연에서 
@@ -97,14 +105,6 @@ CIX]]></title>
             <guid>https://vibe.naver.com/magazines/62178</guid>
             <pubDate>Mon, 19 Sep 2022 08:27:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[9월의 느낌, 
-당신의 느낌은 어땠나요?]]></title>
-            <link>https://vibe.naver.com/magazines/62177</link>
-            <guid>https://vibe.naver.com/magazines/62177</guid>
-            <pubDate>Fri, 16 Sep 2022 08:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.15]]></content:encoded>
         </item>
     </channel>
 </rss>
