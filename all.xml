@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 18:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 19:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,6 @@ EXID, 파라모어 (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62198</guid>
             <pubDate>Tue, 04 Oct 2022 09:24:23 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.04]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221004_228/1664867955808EAMCu_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오직 김재중만 
