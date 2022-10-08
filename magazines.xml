@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 01:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 03:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무엇이든 물어보세요 : 
+DKZ]]></title>
+            <link>https://vibe.naver.com/magazines/62200</link>
+            <guid>https://vibe.naver.com/magazines/62200</guid>
+            <pubDate>Sat, 08 Oct 2022 03:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.06]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #144 
 스트릿 맨 파이터]]></title>
@@ -32,7 +40,6 @@ EXID, 파라모어]]></title>
             <guid>https://vibe.naver.com/magazines/62198</guid>
             <pubDate>Wed, 05 Oct 2022 08:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.04]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221004_228/1664867955808EAMCu_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오직 김재중만 
@@ -96,14 +103,6 @@ NMIXX(엔믹스)]]></title>
             <link>https://vibe.naver.com/magazines/62179</link>
             <guid>https://vibe.naver.com/magazines/62179</guid>
             <pubDate>Wed, 21 Sep 2022 02:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.19]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #110 : 
-NCT 127, 블랙핑크]]></title>
-            <link>https://vibe.naver.com/magazines/62189</link>
-            <guid>https://vibe.naver.com/magazines/62189</guid>
-            <pubDate>Mon, 19 Sep 2022 10:22:01 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.19]]></content:encoded>
         </item>
     </channel>
