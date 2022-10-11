@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 08:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 09:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을이 오면 : 
+말든, 쏠]]></title>
+            <link>https://vibe.naver.com/magazines/62201</link>
+            <guid>https://vibe.naver.com/magazines/62201</guid>
+            <pubDate>Tue, 11 Oct 2022 09:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.07]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
 DKZ]]></title>
@@ -32,7 +40,6 @@ EXID, 파라모어]]></title>
             <guid>https://vibe.naver.com/magazines/62199</guid>
             <pubDate>Wed, 05 Oct 2022 10:22:26 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.05]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221005_249/1664940285277wodMz_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AB6IX, 
@@ -97,14 +104,6 @@ BLACKPINK]]></title>
             <guid>https://vibe.naver.com/magazines/62190</guid>
             <pubDate>Thu, 22 Sep 2022 09:21:21 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.20]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NEXTREND : 
-NMIXX(엔믹스)]]></title>
-            <link>https://vibe.naver.com/magazines/62179</link>
-            <guid>https://vibe.naver.com/magazines/62179</guid>
-            <pubDate>Wed, 21 Sep 2022 02:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.19]]></content:encoded>
         </item>
     </channel>
 </rss>
