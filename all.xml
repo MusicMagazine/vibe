@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Oct 2022 09:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 10:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62203</guid>
             <pubDate>Wed, 12 Oct 2022 09:25:17 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.12]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221012_190/1665566557498ejwyS_JPEG/KakaoTalk_20221012_181947153.jpeg?type=w720" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[New Release #113 : 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62202</guid>
             <pubDate>Tue, 11 Oct 2022 09:26:08 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.11]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221011_270/1665474730384bsClG_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을이 오면 : 
@@ -30,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62201</guid>
             <pubDate>Sat, 08 Oct 2022 03:35:50 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.07]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221007_59/1665123561139rovHK_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
