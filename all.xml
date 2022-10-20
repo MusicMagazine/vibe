@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 07:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 08:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #145 
+(여자) 아이들 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62206</link>
+            <guid>https://vibe.naver.com/magazines/62206</guid>
+            <pubDate>Wed, 19 Oct 2022 09:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.19]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[New Release #114 : 
 마마무, 블링크-182 (VIBE ─ 매거진)]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62203</guid>
             <pubDate>Wed, 12 Oct 2022 09:25:17 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.12]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221012_190/1665566557498ejwyS_JPEG/KakaoTalk_20221012_181947153.jpeg?type=w720" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[New Release #113 : 
@@ -99,12 +106,15 @@ EXID, 파라모어 (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.29]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기이한 인연에서 
-귀한 인연으로 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62194</link>
-            <guid>https://vibe.naver.com/magazines/62194</guid>
-            <pubDate>Thu, 29 Sep 2022 06:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.29]]></content:encoded>
+            <title><![CDATA[이주의 디깅 #145 
+(여자) 아이들 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62206</link>
+            <guid>https://vibe.naver.com/magazines/62206</guid>
+            <pubDate>Wed, 19 Oct 2022 09:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62206" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="https://music-phinf.pstatic.net/20221019_210/1666147202565bOKcC_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="이주의 디깅 #145 
+(여자) 아이들"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62206" data-title="이주의 디깅 #145 (여자) 아이들" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62206" class="title">이주의 디깅 #145 
+(여자) 아이들</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.10.19 </span><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221019_210/1666147202565bOKcC_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #114 : 
@@ -134,10 +144,9 @@ EXID, 파라모어 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62203</link>
             <guid>https://vibe.naver.com/magazines/62203</guid>
             <pubDate>Wed, 12 Oct 2022 09:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62203" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="https://music-phinf.pstatic.net/20221012_190/1665566557498ejwyS_JPEG/KakaoTalk_20221012_181947153.jpeg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="코카앤버터, 
+            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62203" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="코카앤버터, 
 댄스앤뮤직"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62203" data-title="코카앤버터, 댄스앤뮤직" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62203" class="title">코카앤버터, 
 댄스앤뮤직</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.10.12 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221012_190/1665566557498ejwyS_JPEG/KakaoTalk_20221012_181947153.jpeg?type=w720" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[New Release #113 : 
@@ -220,23 +229,13 @@ EXID, 파라모어</a><div data-v-103cea08="" class="sub"><span data-v-103cea08=
 완전체</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.09.29 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기이한 인연에서 
-귀한 인연으로 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62194</link>
-            <guid>https://vibe.naver.com/magazines/62194</guid>
-            <pubDate>Thu, 29 Sep 2022 06:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-103cea08="" class="thumb_area"><a data-v-103cea08="" href="/magazines/62194" class="link"><div data-v-103cea08="" class="thumb"><img data-v-4dcb5b96="" data-v-103cea08="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="기이한 인연에서 
-귀한 인연으로"></div></a><a data-v-100a6273="" data-v-103cea08="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-103cea08="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62194" data-title="기이한 인연에서 귀한 인연으로" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-103cea08="" class="info"><a data-v-103cea08="" href="/magazines/62194" class="title">기이한 인연에서 
-귀한 인연으로</a><div data-v-103cea08="" class="sub"><span data-v-103cea08="" class="item"><span data-v-103cea08="" class="blind">작성일</span> 2022.09.29 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #145 
-(여자) 아이들 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62206</link>
-            <guid>https://vibe.naver.com/magazines/62206</guid>
-            <pubDate>Wed, 19 Oct 2022 09:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[4세대 걸그룹의 시대를 활짝 연 아이들이 미니 앨범으로 돌아왔다. 역시나 음원과 앨범 차트에서 좋은 성적을 거두며 새로운 기록을 써 내려가고 있다. 특히 미니 앨범의 타이틀곡 ‘Nxde’는 음악뿐만 아니라 뮤직비디오까지 마치 뮤지컬 영화를 듣고 보는 듯하다. 그렇다면 이주의 디깅에서는 아이들과 함께 뮤지컬 영화를 함께 찾아 떠나가 보자. -인스]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221019_109/16661472043786lSDV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[쇼미더머니 11, 
+화제의 참가자는? (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62207</link>
+            <guid>https://vibe.naver.com/magazines/62207</guid>
+            <pubDate>Thu, 20 Oct 2022 08:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[어김없이 올해도 “쇼미더머니”가 돌아왔다. 한국 오디션 프로그램 최초로 열한 번째 시즌을 맞이한 &lt;쇼미더머니&gt;는 시즌마다 루키 래퍼 혹은 랩 스타를 배출해 냈다. 미리 공개된 정보에 의하면 이번 시즌의 경우에는 기본기가 충실하고, 랩 그 자체에 충실한 참가자들이 등장해 좋은 모습을 보일 거라고 한다. 그렇다면 우리는 어떤 참가자들을 주목하면 좋을까?]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221020_33/1666238256477fkUoL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
