@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 03:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 05:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼미더머니 11, 
+화제의 참가자는?]]></title>
+            <link>https://vibe.naver.com/magazines/62207</link>
+            <guid>https://vibe.naver.com/magazines/62207</guid>
+            <pubDate>Fri, 21 Oct 2022 05:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.20]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221020_14/1666238254752wwgk5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #145 
 (여자) 아이들]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62204</guid>
             <pubDate>Mon, 17 Oct 2022 10:26:41 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.14]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221014_282/1665718752253D8UD2_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코카앤버터, 
@@ -97,14 +105,6 @@ EXID, 파라모어]]></title>
             <guid>https://vibe.naver.com/magazines/62196</guid>
             <pubDate>Tue, 04 Oct 2022 09:24:05 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EXID, 
-완전체]]></title>
-            <link>https://vibe.naver.com/magazines/62195</link>
-            <guid>https://vibe.naver.com/magazines/62195</guid>
-            <pubDate>Fri, 30 Sep 2022 08:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.29]]></content:encoded>
         </item>
     </channel>
 </rss>
