@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 08:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 09:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌, 
+막을 수 없는 에너지]]></title>
+            <link>https://vibe.naver.com/magazines/62208</link>
+            <guid>https://vibe.naver.com/magazines/62208</guid>
+            <pubDate>Tue, 25 Oct 2022 09:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.21]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[쇼미더머니 11, 
 화제의 참가자는?]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62205</guid>
             <pubDate>Wed, 19 Oct 2022 09:29:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.17]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221017_82/1665993382551FYP5j_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10월의 느낌, 
@@ -97,14 +104,6 @@ EXID, 파라모어]]></title>
             <guid>https://vibe.naver.com/magazines/62198</guid>
             <pubDate>Wed, 05 Oct 2022 08:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.04]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오직 김재중만 
-할 수 있는 장르]]></title>
-            <link>https://vibe.naver.com/magazines/62196</link>
-            <guid>https://vibe.naver.com/magazines/62196</guid>
-            <pubDate>Tue, 04 Oct 2022 09:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.09.30]]></content:encoded>
         </item>
     </channel>
 </rss>
