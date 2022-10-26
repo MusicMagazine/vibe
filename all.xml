@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 17:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 18:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62213</guid>
             <pubDate>Tue, 25 Oct 2022 09:31:56 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.25]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221025_260/1666664748361CpBTS_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르세라핌, 
@@ -23,7 +22,6 @@
             <guid>https://vibe.naver.com/magazines/62208</guid>
             <pubDate>Fri, 21 Oct 2022 05:07:54 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.21]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221020_114/1666251574416z3tVF_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼미더머니 11, 
@@ -32,7 +30,6 @@
             <guid>https://vibe.naver.com/magazines/62207</guid>
             <pubDate>Thu, 20 Oct 2022 08:27:48 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.20]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221020_14/1666238254752wwgk5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #145 
