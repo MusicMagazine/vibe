@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 09:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 10:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEXTREND : 
+tripleS(트리플에스)]]></title>
+            <link>https://vibe.naver.com/magazines/62215</link>
+            <guid>https://vibe.naver.com/magazines/62215</guid>
+            <pubDate>Mon, 31 Oct 2022 10:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.28]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[홀로 선 
 백호]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62208</guid>
             <pubDate>Tue, 25 Oct 2022 09:31:38 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.21]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221020_114/1666251574416z3tVF_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼미더머니 11, 
@@ -97,14 +104,6 @@ DKZ]]></title>
             <guid>https://vibe.naver.com/magazines/62200</guid>
             <pubDate>Sat, 08 Oct 2022 03:35:28 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.06]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #144 
-스트릿 맨 파이터]]></title>
-            <link>https://vibe.naver.com/magazines/62197</link>
-            <guid>https://vibe.naver.com/magazines/62197</guid>
-            <pubDate>Thu, 06 Oct 2022 09:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.10.05]]></content:encoded>
         </item>
     </channel>
 </rss>
