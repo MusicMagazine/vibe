@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 23:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 01:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62229</guid>
             <pubDate>Wed, 16 Nov 2022 05:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.16]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221116_44/16685619072863BKgh_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release # 118 : 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62228</guid>
             <pubDate>Tue, 15 Nov 2022 10:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.15]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221115_153/1668501046578DONlE_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[11월의 느낌, 
@@ -30,7 +32,6 @@
             <guid>https://vibe.naver.com/magazines/62227</guid>
             <pubDate>Mon, 14 Nov 2022 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.14]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221115_87/1668505276686qvHo9_PNG/VIBE_%B0%F8%C5%EB_%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%BC%F6%C1%A4%BA%BB.png?type=w720" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[올 하반기 앨범 : 
