@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 01:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62229</guid>
             <pubDate>Wed, 16 Nov 2022 05:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.16]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221116_44/16685619072863BKgh_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release # 118 : 
@@ -23,7 +22,6 @@
             <guid>https://vibe.naver.com/magazines/62228</guid>
             <pubDate>Tue, 15 Nov 2022 10:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.15]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221115_153/1668501046578DONlE_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[11월의 느낌, 
@@ -238,6 +236,14 @@ CLASS:y(클라씨) (VIBE ─ 매거진 TOP)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20221116_130/1668565139606pQuNS_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조용필이 9년 만에 신곡 발표를 합니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
+            <link>https://www.ytn.co.kr/_ln/0106_202211151432222858</link>
+            <guid>https://www.ytn.co.kr/_ln/0106_202211151432222858</guid>
+            <pubDate>Thu, 17 Nov 2022 03:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[조용필이 9년 만에 신곡 발표를 합니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
+        </item>
+        <item>
             <title><![CDATA[해리 스타일스가 내년 3월 한국에서 첫 내한 공연을 합니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
             <link>https://www.news1.kr/articles/4865008</link>
             <guid>https://www.news1.kr/articles/4865008</guid>
@@ -307,14 +313,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진 TOP)]]></title>
             <guid>https://n.news.naver.com/article/028/0002613005?sid=103</guid>
             <pubDate>Wed, 16 Nov 2022 21:15:08 GMT</pubDate>
             <content:encoded><![CDATA[테일러 스위프트가 사상 최초로 빌보드 차트를 점령했습니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
-        </item>
-        <item>
-            <title><![CDATA[장민호가 정규 2집 발매를 연기하고 공연을 취소했습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
-            <link>https://star.ytn.co.kr/_sn/0117_202211011013401966</link>
-            <guid>https://star.ytn.co.kr/_sn/0117_202211011013401966</guid>
-            <pubDate>Wed, 16 Nov 2022 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[장민호가 정규 2집 발매를 연기하고 공연을 취소했습니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
         </item>
     </channel>
