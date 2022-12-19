@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 08:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 09:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울에는 
+따스한 노래를]]></title>
+            <link>https://vibe.naver.com/magazines/62249</link>
+            <guid>https://vibe.naver.com/magazines/62249</guid>
+            <pubDate>Mon, 19 Dec 2022 09:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.16]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221216_190/1671174715090aBIt5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[존박의 
 크리스마스]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62246</guid>
             <pubDate>Wed, 14 Dec 2022 12:28:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.13]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221213_1/1670917023512Y42AW_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #148 
@@ -97,14 +105,6 @@ RM, 트로이 시반]]></title>
             <guid>https://vibe.naver.com/magazines/62232</guid>
             <pubDate>Tue, 22 Nov 2022 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.21]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NEXTREND : 
-CLASS:y(클라씨)]]></title>
-            <link>https://vibe.naver.com/magazines/62230</link>
-            <guid>https://vibe.naver.com/magazines/62230</guid>
-            <pubDate>Mon, 21 Nov 2022 08:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.16]]></content:encoded>
         </item>
     </channel>
 </rss>
