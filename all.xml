@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 07:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 08:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예나의 변신이 
+특별한 이유 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62266</link>
+            <guid>https://vibe.naver.com/magazines/62266</guid>
+            <pubDate>Thu, 19 Jan 2023 06:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.19]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230119_111/1674106174994nMw2o_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[드림캐쳐, 
 팬송으로 전한 진심 (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62262</guid>
             <pubDate>Mon, 16 Jan 2023 09:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.16]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230116_63/1673855141128qrU8K_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미성년 대탈출 프로젝트: 
@@ -99,12 +107,15 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #124 : 
-뉴진스, 에이바 맥스 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62253</link>
-            <guid>https://vibe.naver.com/magazines/62253</guid>
-            <pubDate>Mon, 26 Dec 2022 09:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.26]]></content:encoded>
+            <title><![CDATA[예나의 변신이 
+특별한 이유 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62266</link>
+            <guid>https://vibe.naver.com/magazines/62266</guid>
+            <pubDate>Thu, 19 Jan 2023 06:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62266" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230119_111/1674106174994nMw2o_GIF/%C4%BF%B9%F61.gif?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="예나의 변신이 
+특별한 이유"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62266" data-title="예나의 변신이 특별한 이유" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62266" class="title">예나의 변신이 
+특별한 이유</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.01.19 </span><!----></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230119_111/1674106174994nMw2o_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[드림캐쳐, 
@@ -134,10 +145,9 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62262</link>
             <guid>https://vibe.naver.com/magazines/62262</guid>
             <pubDate>Mon, 16 Jan 2023 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62262" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230116_63/1673855141128qrU8K_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #127 : 
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62262" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #127 : 
 태양, 마일리 사일러스"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62262" data-title="New Release #127 : 태양, 마일리 사일러스" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62262" class="title">New Release #127 : 
 태양, 마일리 사일러스</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.01.16 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230116_63/1673855141128qrU8K_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미성년 대탈출 프로젝트: 
@@ -220,23 +230,13 @@ SMTOWN, 쿠코</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" c
 신인 아티스트</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #124 : 
-뉴진스, 에이바 맥스 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62253</link>
-            <guid>https://vibe.naver.com/magazines/62253</guid>
-            <pubDate>Mon, 26 Dec 2022 09:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62253" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #124 : 
-뉴진스, 에이바 맥스"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62253" data-title="New Release #124 : 뉴진스, 에이바 맥스" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62253" class="title">New Release #124 : 
-뉴진스, 에이바 맥스</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2022.12.26 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[예나의 변신이 
-특별한 이유 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62266</link>
-            <guid>https://vibe.naver.com/magazines/62266</guid>
-            <pubDate>Thu, 19 Jan 2023 06:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[상큼하기만 했던 예나가 달라졌다. 전쟁같은 사랑 속 부서지는 마음을 담은 신곡, ‘Love War’는 분위기만 달라진 게 아니다. 비오가 피처링한 남녀 듀엣도 처음, 콜드가 프로듀싱한 새로운 스타일도 처음, 무대에서 웃지 않는 예나도 처음.]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230119_181/1674106177457qYtaN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+            <title><![CDATA[1월의 느낌, 
+당신의 느낌은 어땠나요? (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62267</link>
+            <guid>https://vibe.naver.com/magazines/62267</guid>
+            <pubDate>Wed, 25 Jan 2023 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘1월의 노래’를 여러분도 들어보세요.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230125_186/1674631582557pL2Kj_JPEG/%C4%BF%B9%F62_%281%29.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태양, BTS 지민의 ‘VIBE’가 빌보드 핫100에 진입했습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
