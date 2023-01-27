@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 06:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[님아 이 앨범을 놓치지 마오 : 
+나얼, 홀리데이]]></title>
+            <link>https://vibe.naver.com/magazines/62268</link>
+            <guid>https://vibe.naver.com/magazines/62268</guid>
+            <pubDate>Fri, 27 Jan 2023 07:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.26]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230126_211/1674713835435NbMc5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1월의 느낌, 
 당신의 느낌은 어땠나요?]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62265</guid>
             <pubDate>Thu, 19 Jan 2023 06:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.18]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230118_159/1674012191388ORi9R_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #151 
@@ -96,14 +104,6 @@ SMTOWN, 쿠코]]></title>
             <link>https://vibe.naver.com/magazines/62256</link>
             <guid>https://vibe.naver.com/magazines/62256</guid>
             <pubDate>Mon, 02 Jan 2023 09:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메트로 부민의 친구들은? : 
-퓨처, 위켄드]]></title>
-            <link>https://vibe.naver.com/magazines/62255</link>
-            <guid>https://vibe.naver.com/magazines/62255</guid>
-            <pubDate>Fri, 30 Dec 2022 08:17:21 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29]]></content:encoded>
         </item>
     </channel>

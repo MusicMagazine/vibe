@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 06:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[님아 이 앨범을 놓치지 마오 : 
+나얼, 홀리데이 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62268</link>
+            <guid>https://vibe.naver.com/magazines/62268</guid>
+            <pubDate>Thu, 26 Jan 2023 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.26]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230126_211/1674713835435NbMc5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1월의 느낌, 
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62265</guid>
             <pubDate>Wed, 18 Jan 2023 09:14:55 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.18]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230118_159/1674012191388ORi9R_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #151 
@@ -99,12 +107,15 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메트로 부민의 친구들은? : 
-퓨처, 위켄드 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62255</link>
-            <guid>https://vibe.naver.com/magazines/62255</guid>
-            <pubDate>Thu, 29 Dec 2022 09:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29]]></content:encoded>
+            <title><![CDATA[님아 이 앨범을 놓치지 마오 : 
+나얼, 홀리데이 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62268</link>
+            <guid>https://vibe.naver.com/magazines/62268</guid>
+            <pubDate>Thu, 26 Jan 2023 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62268" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230126_211/1674713835435NbMc5_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="님아 이 앨범을 놓치지 마오 : 
+나얼, 홀리데이"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62268" data-title="님아 이 앨범을 놓치지 마오 : 나얼, 홀리데이" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62268" class="title">님아 이 앨범을 놓치지 마오 : 
+나얼, 홀리데이</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.01.26 </span><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230126_211/1674713835435NbMc5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1월의 느낌, 
@@ -134,10 +145,9 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62265</link>
             <guid>https://vibe.naver.com/magazines/62265</guid>
             <pubDate>Wed, 18 Jan 2023 09:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62265" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230118_159/1674012191388ORi9R_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="드림캐쳐, 
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62265" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="드림캐쳐, 
 팬송으로 전한 진심"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62265" data-title="드림캐쳐, 팬송으로 전한 진심" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62265" class="title">드림캐쳐, 
 팬송으로 전한 진심</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.01.18 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230118_159/1674012191388ORi9R_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #151 
@@ -220,23 +230,13 @@ SMTOWN, 쿠코</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" c
 새로운 에피소드</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메트로 부민의 친구들은? : 
-퓨처, 위켄드 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62255</link>
-            <guid>https://vibe.naver.com/magazines/62255</guid>
-            <pubDate>Thu, 29 Dec 2022 09:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62255" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="메트로 부민의 친구들은? : 
-퓨처, 위켄드"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62255" data-title="메트로 부민의 친구들은? : 퓨처, 위켄드" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62255" class="title">메트로 부민의 친구들은? : 
-퓨처, 위켄드</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[님아 이 앨범을 놓치지 마오 : 
-나얼, 홀리데이 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62268</link>
-            <guid>https://vibe.naver.com/magazines/62268</guid>
-            <pubDate>Thu, 26 Jan 2023 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 연초의 계획을 짜느라 정신이 없는 요즘. 어김없이 한국 힙합/알앤비 씬은 바쁘게 돌아가고 있다. 이미 지난 12월부터 현재까지 여러 음악가가 자기 작업물을 발표하며 장르 팬들의 마음을 따뜻하게 만들어 주고 있다. 그중에서도 많은 이들이 반드시 체크했으면 하는 몇 장의 음반들을 소개하고자 한다. – 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230126_2/1674713837440tTxqC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[메타버스 아이돌, 
+메이브 (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62269</link>
+            <guid>https://vibe.naver.com/magazines/62269</guid>
+            <pubDate>Fri, 27 Jan 2023 07:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[판도라가 열린다. 지금까지 본 적 없는 새로운 아이돌, 가상과 현실을 잇는 버추얼 휴먼 멤버로 이루어진 메이브가 데뷔한다. 가까운 미래, 메타버스를 본격적으로 컨텐츠에 접목한 새로운 문화? 이런 말은 미뤄두고 순수한 팬심으로 이들의 음악을 즐겨보자.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230127_73/1674785477226wQoy7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온유가 3월 첫 솔로 콘서트를 개최합니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
