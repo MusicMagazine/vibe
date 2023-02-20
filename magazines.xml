@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 08:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그래미의 상징적인 순간들 : 
+켄드릭 라마, 비욘세]]></title>
+            <link>https://vibe.naver.com/magazines/62279</link>
+            <guid>https://vibe.naver.com/magazines/62279</guid>
+            <pubDate>Mon, 20 Feb 2023 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.17]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2월의 느낌, 
 당신의 느낌은 어땠나요?]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62276</guid>
             <pubDate>Wed, 15 Feb 2023 07:14:08 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.13]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230213_284/1676274048761rLJUi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이홉 솔로 다큐멘터리 
@@ -97,14 +104,6 @@ NCT 127, 레이]]></title>
             <guid>https://vibe.naver.com/magazines/62268</guid>
             <pubDate>Fri, 27 Jan 2023 07:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1월의 느낌, 
-당신의 느낌은 어땠나요?]]></title>
-            <link>https://vibe.naver.com/magazines/62267</link>
-            <guid>https://vibe.naver.com/magazines/62267</guid>
-            <pubDate>Thu, 26 Jan 2023 09:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.25]]></content:encoded>
         </item>
     </channel>
 </rss>
