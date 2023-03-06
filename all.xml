@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 16:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 17:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62286</guid>
             <pubDate>Fri, 03 Mar 2023 03:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.03]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230302_70/1677719764322lyRGy_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진실 혹은 거짓, 
@@ -23,7 +22,6 @@
             <guid>https://vibe.naver.com/magazines/62285</guid>
             <pubDate>Mon, 27 Feb 2023 09:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.27]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230227_23/1677486069826Bbi23_JPEG/%C4%BF%B9%F611.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #132 : 
@@ -32,7 +30,6 @@
             <guid>https://vibe.naver.com/magazines/62284</guid>
             <pubDate>Mon, 27 Feb 2023 09:16:06 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.27]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230227_297/1677484520010IJUI7_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴백 TNX, 
