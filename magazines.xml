@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 09:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박우진, 
+솔로라는 새로운 시작]]></title>
+            <link>https://vibe.naver.com/magazines/62289</link>
+            <guid>https://vibe.naver.com/magazines/62289</guid>
+            <pubDate>Fri, 10 Mar 2023 09:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.08]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #154 
 스크릴렉스]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62286</guid>
             <pubDate>Mon, 06 Mar 2023 05:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.03]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230302_70/1677719764322lyRGy_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진실 혹은 거짓, 
@@ -97,14 +104,6 @@ Love or Die]]></title>
             <guid>https://vibe.naver.com/magazines/62278</guid>
             <pubDate>Fri, 17 Feb 2023 09:15:20 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트라이비(TRI.BE), 
-젊은 날의 우린 겁나지 않아]]></title>
-            <link>https://vibe.naver.com/magazines/62277</link>
-            <guid>https://vibe.naver.com/magazines/62277</guid>
-            <pubDate>Thu, 16 Feb 2023 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.15]]></content:encoded>
         </item>
     </channel>
 </rss>
