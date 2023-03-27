@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 08:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고마워요 
+바비 칼드웰]]></title>
+            <link>https://vibe.naver.com/magazines/62296</link>
+            <guid>https://vibe.naver.com/magazines/62296</guid>
+            <pubDate>Mon, 27 Mar 2023 09:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.24]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230324_299/1679637689757hHTRn_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 한번 Bobby에게 
 푹 빠져들 시간]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62293</guid>
             <pubDate>Tue, 21 Mar 2023 06:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.20]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230320_134/1679304354309RV4Tj_JPEG/%C4%BF%B9%F6-1.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #134 : 
@@ -97,14 +105,6 @@
             <guid>https://vibe.naver.com/magazines/62284</guid>
             <pubDate>Mon, 27 Feb 2023 09:16:06 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[컴백 TNX, 
-Love or Die]]></title>
-            <link>https://vibe.naver.com/magazines/62282</link>
-            <guid>https://vibe.naver.com/magazines/62282</guid>
-            <pubDate>Mon, 27 Feb 2023 09:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.22]]></content:encoded>
         </item>
     </channel>
 </rss>
