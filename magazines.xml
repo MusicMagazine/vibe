@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 08:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #136 : 
+지민, 에드시런]]></title>
+            <link>https://vibe.naver.com/magazines/62297</link>
+            <guid>https://vibe.naver.com/magazines/62297</guid>
+            <pubDate>Tue, 28 Mar 2023 09:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.27]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230327_179/1679903288372QULK6_JPEG/%C4%BF%B9%F6.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고마워요 
 바비 칼드웰]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62294</guid>
             <pubDate>Thu, 23 Mar 2023 06:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.21]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230321_137/1679364348057fGNxW_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[New Release #135 : 
@@ -96,14 +104,6 @@
             <link>https://vibe.naver.com/magazines/62285</link>
             <guid>https://vibe.naver.com/magazines/62285</guid>
             <pubDate>Fri, 03 Mar 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #132 : 
-더보이즈, 위켄드]]></title>
-            <link>https://vibe.naver.com/magazines/62284</link>
-            <guid>https://vibe.naver.com/magazines/62284</guid>
-            <pubDate>Mon, 27 Feb 2023 09:16:06 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.02.27]]></content:encoded>
         </item>
     </channel>
