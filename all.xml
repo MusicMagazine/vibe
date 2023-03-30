@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 19:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 20:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62296</guid>
             <pubDate>Fri, 24 Mar 2023 08:17:05 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.24]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230324_299/1679637689757hHTRn_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 한번 Bobby에게 
