@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 09:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함께 만들어 보아요 : 
+DPR, 영앤리치]]></title>
+            <link>https://vibe.naver.com/magazines/62300</link>
+            <guid>https://vibe.naver.com/magazines/62300</guid>
+            <pubDate>Mon, 03 Apr 2023 09:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.31]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230331_95/1680247121532D1LJm_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시온의 라이브, 
 시온의 취향]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62297</guid>
             <pubDate>Tue, 28 Mar 2023 09:16:53 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.27]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230327_179/1679903288372QULK6_JPEG/%C4%BF%B9%F6.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고마워요 
@@ -97,14 +105,6 @@
             <guid>https://vibe.naver.com/magazines/62288</guid>
             <pubDate>Wed, 08 Mar 2023 06:19:35 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #133 : 
-황민현, 모건 웰렌]]></title>
-            <link>https://vibe.naver.com/magazines/62287</link>
-            <guid>https://vibe.naver.com/magazines/62287</guid>
-            <pubDate>Tue, 07 Mar 2023 08:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.06]]></content:encoded>
         </item>
     </channel>
 </rss>
