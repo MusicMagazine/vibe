@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 08:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 09:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신카이 마코토 감독의 최대 걸작
+<스즈메의 문단속>]]></title>
+            <link>https://vibe.naver.com/magazines/62303</link>
+            <guid>https://vibe.naver.com/magazines/62303</guid>
+            <pubDate>Wed, 05 Apr 2023 09:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.04]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #156 
 지수]]></title>
@@ -32,7 +40,6 @@ DPR, 영앤리치]]></title>
             <guid>https://vibe.naver.com/magazines/62300</guid>
             <pubDate>Mon, 03 Apr 2023 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.31]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230331_95/1680247121532D1LJm_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시온의 라이브, 
@@ -97,14 +104,6 @@ DPR, 영앤리치]]></title>
             <guid>https://vibe.naver.com/magazines/62291</guid>
             <pubDate>Mon, 20 Mar 2023 14:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.13]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3월의 느낌, 
-당신의 느낌은 어땠나요?]]></title>
-            <link>https://vibe.naver.com/magazines/62290</link>
-            <guid>https://vibe.naver.com/magazines/62290</guid>
-            <pubDate>Mon, 13 Mar 2023 08:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.10]]></content:encoded>
         </item>
     </channel>
 </rss>
