@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 00:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:51:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #156 
+지수]]></title>
+            <link>https://vibe.naver.com/magazines/62302</link>
+            <guid>https://vibe.naver.com/magazines/62302</guid>
+            <pubDate>Wed, 05 Apr 2023 01:51:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.04]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230404_6/1680587915812Dcp0X_PNG/%C1%F6%BC%F61000.png?type=w720" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Release #137 : 
 지수, 찰리 푸스]]></title>
@@ -32,7 +41,6 @@ DPR, 영앤리치]]></title>
             <guid>https://vibe.naver.com/magazines/62299</guid>
             <pubDate>Fri, 31 Mar 2023 09:13:57 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230329_144/16800604177581IMwQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RM이 함께 했어 : 
@@ -97,14 +105,6 @@ DPR, 영앤리치]]></title>
             <guid>https://vibe.naver.com/magazines/62290</guid>
             <pubDate>Mon, 13 Mar 2023 08:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박우진, 
-솔로라는 새로운 시작]]></title>
-            <link>https://vibe.naver.com/magazines/62289</link>
-            <guid>https://vibe.naver.com/magazines/62289</guid>
-            <pubDate>Fri, 10 Mar 2023 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.08]]></content:encoded>
         </item>
     </channel>
 </rss>
