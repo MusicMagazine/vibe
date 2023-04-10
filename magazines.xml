@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 07:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 08:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시간여행자 김우석의 
+빛나는 지금]]></title>
+            <link>https://vibe.naver.com/magazines/62304</link>
+            <guid>https://vibe.naver.com/magazines/62304</guid>
+            <pubDate>Mon, 10 Apr 2023 08:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.05]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[신카이 마코토 감독의 최대 걸작
 <스즈메의 문단속>]]></title>
@@ -23,6 +31,7 @@
             <guid>https://vibe.naver.com/magazines/62302</guid>
             <pubDate>Wed, 05 Apr 2023 01:51:22 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.04]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230404_6/1680587915812Dcp0X_PNG/%C1%F6%BC%F61000.png?type=w720" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[New Release #137 : 
@@ -95,14 +104,6 @@ DPR, 영앤리치]]></title>
             <guid>https://vibe.naver.com/magazines/62293</guid>
             <pubDate>Tue, 21 Mar 2023 06:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.20]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #134 : 
-트와이스, 마일리 사이러스]]></title>
-            <link>https://vibe.naver.com/magazines/62291</link>
-            <guid>https://vibe.naver.com/magazines/62291</guid>
-            <pubDate>Mon, 20 Mar 2023 14:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.13]]></content:encoded>
         </item>
     </channel>
 </rss>
