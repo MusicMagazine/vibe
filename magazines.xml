@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 05:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 06:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두 주목! 
+아프로비츠 음악가들]]></title>
+            <link>https://vibe.naver.com/magazines/62307</link>
+            <guid>https://vibe.naver.com/magazines/62307</guid>
+            <pubDate>Mon, 17 Apr 2023 06:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.14]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230414_197/168143956327567cym_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월의 느낌, 
 당신의 느낌은 어땠나요?]]></title>
@@ -32,7 +41,6 @@ Agust D, Labrinth]]></title>
             <guid>https://vibe.naver.com/magazines/62304</guid>
             <pubDate>Mon, 10 Apr 2023 08:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.05]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230405_32/168066485833787ciw_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신카이 마코토 감독의 최대 걸작
@@ -97,14 +105,6 @@ DPR, 영앤리치]]></title>
             <guid>https://vibe.naver.com/magazines/62296</guid>
             <pubDate>Mon, 27 Mar 2023 09:15:26 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.24]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다시 한번 Bobby에게 
-푹 빠져들 시간]]></title>
-            <link>https://vibe.naver.com/magazines/62295</link>
-            <guid>https://vibe.naver.com/magazines/62295</guid>
-            <pubDate>Fri, 24 Mar 2023 08:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.03.23]]></content:encoded>
         </item>
     </channel>
 </rss>
