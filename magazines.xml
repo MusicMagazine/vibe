@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 08:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 09:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#가오갤3 
+끝내주는 음악 모음집 공개]]></title>
+            <link>https://vibe.naver.com/magazines/62314</link>
+            <guid>https://vibe.naver.com/magazines/62314</guid>
+            <pubDate>Tue, 02 May 2023 09:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.26]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[우즈, 
 우리들만의 시간]]></title>
@@ -32,7 +40,6 @@ Agust D, 킴 페트라]]></title>
             <guid>https://vibe.naver.com/magazines/62311</guid>
             <pubDate>Tue, 25 Apr 2023 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.24]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230424_151/16823194874630d6v2_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #157 
@@ -96,14 +103,6 @@ Agust D, Labrinth]]></title>
             <link>https://vibe.naver.com/magazines/62303</link>
             <guid>https://vibe.naver.com/magazines/62303</guid>
             <pubDate>Wed, 05 Apr 2023 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.04]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #156 
-지수]]></title>
-            <link>https://vibe.naver.com/magazines/62302</link>
-            <guid>https://vibe.naver.com/magazines/62302</guid>
-            <pubDate>Wed, 05 Apr 2023 01:51:22 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.04]]></content:encoded>
         </item>
     </channel>
