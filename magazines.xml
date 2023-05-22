@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 08:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 09:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월의 느낌, 
+당신의 느낌은 어땠나요?]]></title>
+            <link>https://vibe.naver.com/magazines/62325</link>
+            <guid>https://vibe.naver.com/magazines/62325</guid>
+            <pubDate>Mon, 22 May 2023 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.19]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230519_157/1684476021830DNBKm_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피버스, 
 소녀들은 영원히]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62322</guid>
             <pubDate>Mon, 15 May 2023 09:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.12]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230512_146/1683870581524Xx4VB_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #158 
@@ -96,14 +104,6 @@
             <link>https://vibe.naver.com/magazines/62314</link>
             <guid>https://vibe.naver.com/magazines/62314</guid>
             <pubDate>Tue, 02 May 2023 09:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우즈, 
-우리들만의 시간]]></title>
-            <link>https://vibe.naver.com/magazines/62313</link>
-            <guid>https://vibe.naver.com/magazines/62313</guid>
-            <pubDate>Thu, 27 Apr 2023 02:32:15 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.04.26]]></content:encoded>
         </item>
     </channel>
