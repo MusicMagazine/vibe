@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 05:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 06:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62323</guid>
             <pubDate>Mon, 15 May 2023 09:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.15]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230515_248/1684136835860vAcJ6_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 힙합 여기요 : 
@@ -113,7 +114,7 @@
             <pubDate>Fri, 19 May 2023 08:16:46 GMT</pubDate>
             <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62325" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230519_157/1684476021830DNBKm_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="5월의 느낌, 
 당신의 느낌은 어땠나요?"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62325" data-title="5월의 느낌, 당신의 느낌은 어땠나요?" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62325" class="title">5월의 느낌, 
-당신의 느낌은 어땠나요?</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.19 </span><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+당신의 느낌은 어땠나요?</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.19 </span><!----></div></div>]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230519_157/1684476021830DNBKm_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
