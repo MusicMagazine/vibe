@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 06:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #159 
+인어공주 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62327</link>
+            <guid>https://vibe.naver.com/magazines/62327</guid>
+            <pubDate>Thu, 25 May 2023 03:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230525_67/1684980019710qxRaz_JPEG/9689218.jpeg?type=w720" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[다크 섹시, 
 엔하이픈의 도발 (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62325</guid>
             <pubDate>Fri, 19 May 2023 08:16:46 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.19]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230519_157/1684476021830DNBKm_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피버스, 
@@ -99,12 +107,15 @@
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.04]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EPEX, 
-소년은 이렇게 성장한다 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62316</link>
-            <guid>https://vibe.naver.com/magazines/62316</guid>
-            <pubDate>Wed, 03 May 2023 07:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.03]]></content:encoded>
+            <title><![CDATA[이주의 디깅 #159 
+인어공주 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62327</link>
+            <guid>https://vibe.naver.com/magazines/62327</guid>
+            <pubDate>Thu, 25 May 2023 03:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62327" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230525_67/1684980019710qxRaz_JPEG/9689218.jpeg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="이주의 디깅 #159 
+인어공주"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62327" data-title="이주의 디깅 #159 인어공주" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62327" class="title">이주의 디깅 #159 
+인어공주</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.25 </span><!----></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230525_67/1684980019710qxRaz_JPEG/9689218.jpeg?type=w720" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[다크 섹시, 
@@ -134,10 +145,9 @@
             <link>https://vibe.naver.com/magazines/62325</link>
             <guid>https://vibe.naver.com/magazines/62325</guid>
             <pubDate>Fri, 19 May 2023 08:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62325" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230519_157/1684476021830DNBKm_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="5월의 느낌, 
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62325" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="5월의 느낌, 
 당신의 느낌은 어땠나요?"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62325" data-title="5월의 느낌, 당신의 느낌은 어땠나요?" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62325" class="title">5월의 느낌, 
 당신의 느낌은 어땠나요?</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.19 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230519_157/1684476021830DNBKm_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피버스, 
@@ -220,23 +230,13 @@
 베트남 힙합 아티스트</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.04 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EPEX, 
-소년은 이렇게 성장한다 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62316</link>
-            <guid>https://vibe.naver.com/magazines/62316</guid>
-            <pubDate>Wed, 03 May 2023 07:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62316" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="EPEX, 
-소년은 이렇게 성장한다"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62316" data-title="EPEX, 소년은 이렇게 성장한다" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62316" class="title">EPEX, 
-소년은 이렇게 성장한다</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.03 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #159 
-인어공주 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62327</link>
-            <guid>https://vibe.naver.com/magazines/62327</guid>
-            <pubDate>Thu, 25 May 2023 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[1990년대에 유년 시절을 보낸 이들에게 추억으로 남아 있는 작품이 있으니. 바로 디즈니의 애니메이션 “인어공주”다. 그리고 세월은 흘러 2023년. “인어공주”가 실사영화로 우리 곁에 돌아오게 되었다. 그런 만큼 이주의 디깅에서는 디즈니 OST와 함께 여러 추억들을 되짚어 보도록 하자. - 인스]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230525_20/1684980022961HzhyW_PNG/%C0%CE%BE%EE%B0%F8%C1%D6_%C0%A5.png?type=w840" length="0" type="image/png"/>
+            <title><![CDATA[4세대 걸그룹 
+'넥스트'는 누구? (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62329</link>
+            <guid>https://vibe.naver.com/magazines/62329</guid>
+            <pubDate>Tue, 30 May 2023 06:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[지금 차트는 에스파, (여자)아이들, 아이브, 르세라핌, 뉴진스 등 4세대 걸그룹으로 가득 차 있다. 이들 이후를 차지할 '넥스트'는 누가 될까? 같이 살펴보자.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230530_45/1685417781361TAWga_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔하이픈이 日 오리콘 주간 앨범차트 6개 연속 1위를 차지했습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
