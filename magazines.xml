@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 08:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 09:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4세대 걸그룹 
+'넥스트'는 누구?]]></title>
+            <link>https://vibe.naver.com/magazines/62329</link>
+            <guid>https://vibe.naver.com/magazines/62329</guid>
+            <pubDate>Tue, 30 May 2023 09:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.30]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #159 
 인어공주]]></title>
@@ -14,7 +22,6 @@
             <guid>https://vibe.naver.com/magazines/62327</guid>
             <pubDate>Tue, 30 May 2023 06:17:20 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.25]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230525_67/1684980019710qxRaz_JPEG/9689218.jpeg?type=w720" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[다크 섹시, 
@@ -32,7 +39,6 @@
             <guid>https://vibe.naver.com/magazines/62326</guid>
             <pubDate>Tue, 23 May 2023 08:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.22]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230522_86/1684743010561SrJjy_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5월의 느낌, 
@@ -97,14 +103,6 @@
             <guid>https://vibe.naver.com/magazines/62318</guid>
             <pubDate>Mon, 08 May 2023 08:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지금 당장 알아야 할 
-베트남 힙합 아티스트]]></title>
-            <link>https://vibe.naver.com/magazines/62317</link>
-            <guid>https://vibe.naver.com/magazines/62317</guid>
-            <pubDate>Mon, 08 May 2023 07:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.04]]></content:encoded>
         </item>
     </channel>
 </rss>
