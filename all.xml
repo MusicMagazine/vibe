@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 09:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 10:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62330</guid>
             <pubDate>Tue, 30 May 2023 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.30]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230530_132/1685433241524Nyz2B_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4세대 걸그룹 
@@ -229,7 +230,7 @@
 유쾌한 컴백</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.08 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Nine To Six, 
+            <title><![CDATA[NINE to SIX, 
 음악으로 열일할 시간 (VIBE ─ 매거진 TOP)]]></title>
             <link>https://vibe.naver.com/magazines/62331</link>
             <guid>https://vibe.naver.com/magazines/62331</guid>
