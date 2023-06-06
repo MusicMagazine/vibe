@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 14:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 15:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이거 아마? 
+아마피아노! (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62333</link>
+            <guid>https://vibe.naver.com/magazines/62333</guid>
+            <pubDate>Mon, 05 Jun 2023 02:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.05]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230605_41/1685929133819q2sNz_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핑크 레이디스가 모였다! 
 발칙한 아싸들의 핑크빛 반란 (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62330</guid>
             <pubDate>Tue, 30 May 2023 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.30]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230530_132/1685433241524Nyz2B_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4세대 걸그룹 
@@ -99,12 +107,15 @@
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.12]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주의 디깅 #158 
-다프트 펑크 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62320</link>
-            <guid>https://vibe.naver.com/magazines/62320</guid>
-            <pubDate>Thu, 11 May 2023 08:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.11]]></content:encoded>
+            <title><![CDATA[이거 아마? 
+아마피아노! (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62333</link>
+            <guid>https://vibe.naver.com/magazines/62333</guid>
+            <pubDate>Mon, 05 Jun 2023 02:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62333" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230605_41/1685929133819q2sNz_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="이거 아마? 
+아마피아노!"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62333" data-title="이거 아마? 아마피아노!" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62333" class="title">이거 아마? 
+아마피아노!</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.06.05 </span><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230605_41/1685929133819q2sNz_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핑크 레이디스가 모였다! 
@@ -134,10 +145,9 @@
             <link>https://vibe.naver.com/magazines/62330</link>
             <guid>https://vibe.naver.com/magazines/62330</guid>
             <pubDate>Tue, 30 May 2023 09:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62330" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230530_132/1685433241524Nyz2B_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #145 : 
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62330" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #145 : 
 주헌, 박재범"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62330" data-title="New Release #145 : 주헌, 박재범" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62330" class="title">New Release #145 : 
 주헌, 박재범</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.30 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230530_132/1685433241524Nyz2B_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4세대 걸그룹 
@@ -220,23 +230,13 @@
 애쉬 아일랜드, 미란이</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.12 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주의 디깅 #158 
-다프트 펑크 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62320</link>
-            <guid>https://vibe.naver.com/magazines/62320</guid>
-            <pubDate>Thu, 11 May 2023 08:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62320" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="이주의 디깅 #158 
-다프트 펑크"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span></span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62320" data-title="이주의 디깅 #158 다프트 펑크" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62320" class="title">이주의 디깅 #158 
-다프트 펑크</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.05.11 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이거 아마? 
-아마피아노! (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62333</link>
-            <guid>https://vibe.naver.com/magazines/62333</guid>
-            <pubDate>Mon, 05 Jun 2023 02:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[아프로비츠란 이름으로 주목받는 아프리카의 음악들. 이 중에서도 남아공의 아마피아노는 세계적인 무브먼트를 일으킨 댄스 음악이다. 최근 한국에서도 솔라빔의 DJ/프로듀서 코커가 리믹스 앨범에서 선보였듯 해당 장르는 나무 울리는 듯한 소리가 나는 로그 드럼, 몽환적인 신스 패드 등을 특징으로 한다. - 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230605_20/1685929135691pBokb_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[New Release #146 : 
+스트레이키즈, 위켄드 (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62334</link>
+            <guid>https://vibe.naver.com/magazines/62334</guid>
+            <pubDate>Tue, 06 Jun 2023 15:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[세 번째 정규 앨범을 발표한 스트레이 키즈, 드라마 &lt;아이돌&gt;로 화제를 모으고 있는 위켄드까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230605_53/1685949306159Yx0xl_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM이 서울 앙코르 콘서트를 성황리에 마쳤습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
