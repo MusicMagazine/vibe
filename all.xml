@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 02:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 03:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62336</guid>
             <pubDate>Mon, 12 Jun 2023 10:15:08 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.12]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230612_27/16865573993065B96u_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로미스나인의 바로 지금, 
