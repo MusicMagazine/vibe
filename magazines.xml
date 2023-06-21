@@ -1,104 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vibe.naver.com/magazines</id>
-    <title>VIBE ─ 매거진</title>
-    <updated>2023-06-21T02:36:57.781Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[New Release #148 : 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>VIBE ─ 매거진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Jun 2023 03:14:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #148 : 
 에이티즈, 도자 캣]]></title>
-        <id>https://vibe.naver.com/magazines/62340</id>
-        <link href="https://vibe.naver.com/magazines/62340"/>
-        <updated>2023-06-20T12:27:42.019Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멤피스, 
+            <link>https://vibe.naver.com/magazines/62340</link>
+            <guid>https://vibe.naver.com/magazines/62340</guid>
+            <pubDate>Tue, 20 Jun 2023 12:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.19]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230619_129/1687159783773U7M6i_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멤피스, 
 퐁크는 지금?!]]></title>
-        <id>https://vibe.naver.com/magazines/62339</id>
-        <link href="https://vibe.naver.com/magazines/62339"/>
-        <updated>2023-06-19T10:14:50.661Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HIP한 음악으로 돌아온
+            <link>https://vibe.naver.com/magazines/62339</link>
+            <guid>https://vibe.naver.com/magazines/62339</guid>
+            <pubDate>Mon, 19 Jun 2023 10:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.16]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230616_211/1686879337368HoKwU_JPEG/%C0%CE%C6%AE%B7%CE%28%BB%F9%C7%C1%B6%F3%29.jpeg?type=w720" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HIP한 음악으로 돌아온
 스파이더맨: 어크로스 더 유니버스]]></title>
-        <id>https://vibe.naver.com/magazines/62338</id>
-        <link href="https://vibe.naver.com/magazines/62338"/>
-        <updated>2023-06-16T09:13:13.882Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주의 디깅 #160 
+            <link>https://vibe.naver.com/magazines/62338</link>
+            <guid>https://vibe.naver.com/magazines/62338</guid>
+            <pubDate>Fri, 16 Jun 2023 09:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.14]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230614_104/1686723546358vcuQ6_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주의 디깅 #160 
 원슈타인]]></title>
-        <id>https://vibe.naver.com/magazines/62337</id>
-        <link href="https://vibe.naver.com/magazines/62337"/>
-        <updated>2023-06-14T10:14:25.929Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release #147 : 
+            <link>https://vibe.naver.com/magazines/62337</link>
+            <guid>https://vibe.naver.com/magazines/62337</guid>
+            <pubDate>Wed, 14 Jun 2023 10:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Release #147 : 
 방탄소년단, 샘 스미스]]></title>
-        <id>https://vibe.naver.com/magazines/62336</id>
-        <link href="https://vibe.naver.com/magazines/62336"/>
-        <updated>2023-06-13T14:12:37.486Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인의 바로 지금, 
+            <link>https://vibe.naver.com/magazines/62336</link>
+            <guid>https://vibe.naver.com/magazines/62336</guid>
+            <pubDate>Tue, 13 Jun 2023 14:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프로미스나인의 바로 지금, 
 #menow]]></title>
-        <id>https://vibe.naver.com/magazines/62335</id>
-        <link href="https://vibe.naver.com/magazines/62335"/>
-        <updated>2023-06-12T10:14:53.803Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release #146 : 
+            <link>https://vibe.naver.com/magazines/62335</link>
+            <guid>https://vibe.naver.com/magazines/62335</guid>
+            <pubDate>Mon, 12 Jun 2023 10:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Release #146 : 
 스트레이키즈, 위켄드]]></title>
-        <id>https://vibe.naver.com/magazines/62334</id>
-        <link href="https://vibe.naver.com/magazines/62334"/>
-        <updated>2023-06-07T06:17:53.932Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거 아마? 
+            <link>https://vibe.naver.com/magazines/62334</link>
+            <guid>https://vibe.naver.com/magazines/62334</guid>
+            <pubDate>Wed, 07 Jun 2023 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이거 아마? 
 아마피아노!]]></title>
-        <id>https://vibe.naver.com/magazines/62333</id>
-        <link href="https://vibe.naver.com/magazines/62333"/>
-        <updated>2023-06-06T15:13:32.882Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑크 레이디스가 모였다! 
+            <link>https://vibe.naver.com/magazines/62333</link>
+            <guid>https://vibe.naver.com/magazines/62333</guid>
+            <pubDate>Tue, 06 Jun 2023 15:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[핑크 레이디스가 모였다! 
 발칙한 아싸들의 핑크빛 반란]]></title>
-        <id>https://vibe.naver.com/magazines/62332</id>
-        <link href="https://vibe.naver.com/magazines/62332"/>
-        <updated>2023-06-05T02:50:03.135Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NINE to SIX, 
+            <link>https://vibe.naver.com/magazines/62332</link>
+            <guid>https://vibe.naver.com/magazines/62332</guid>
+            <pubDate>Mon, 05 Jun 2023 02:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NINE to SIX, 
 음악으로 열일할 시간]]></title>
-        <id>https://vibe.naver.com/magazines/62331</id>
-        <link href="https://vibe.naver.com/magazines/62331"/>
-        <updated>2023-06-02T06:17:24.713Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release #145 : 
+            <link>https://vibe.naver.com/magazines/62331</link>
+            <guid>https://vibe.naver.com/magazines/62331</guid>
+            <pubDate>Fri, 02 Jun 2023 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Release #145 : 
 주헌, 박재범]]></title>
-        <id>https://vibe.naver.com/magazines/62330</id>
-        <link href="https://vibe.naver.com/magazines/62330"/>
-        <updated>2023-05-31T09:15:54.049Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4세대 걸그룹 
+            <link>https://vibe.naver.com/magazines/62330</link>
+            <guid>https://vibe.naver.com/magazines/62330</guid>
+            <pubDate>Wed, 31 May 2023 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4세대 걸그룹 
 '넥스트'는 누구?]]></title>
-        <id>https://vibe.naver.com/magazines/62329</id>
-        <link href="https://vibe.naver.com/magazines/62329"/>
-        <updated>2023-05-30T09:14:54.823Z</updated>
-        <content type="html"><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.30]]></content>
-    </entry>
-</feed>
+            <link>https://vibe.naver.com/magazines/62329</link>
+            <guid>https://vibe.naver.com/magazines/62329</guid>
+            <pubDate>Tue, 30 May 2023 09:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.05.30]]></content:encoded>
+        </item>
+    </channel>
+</rss>
