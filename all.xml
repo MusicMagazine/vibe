@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 02:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 03:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,6 @@
             <guid>https://vibe.naver.com/magazines/62340</guid>
             <pubDate>Mon, 19 Jun 2023 10:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.19]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230619_129/1687159783773U7M6i_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멤피스, 
@@ -32,7 +31,6 @@
             <guid>https://vibe.naver.com/magazines/62339</guid>
             <pubDate>Fri, 16 Jun 2023 09:13:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.16]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230616_211/1686879337368HoKwU_JPEG/%C0%CE%C6%AE%B7%CE%28%BB%F9%C7%C1%B6%F3%29.jpeg?type=w720" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[HIP한 음악으로 돌아온
