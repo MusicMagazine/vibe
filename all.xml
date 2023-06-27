@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 23:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 01:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62342</guid>
             <pubDate>Wed, 21 Jun 2023 09:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.21]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230621_86/16873261772192Dqnx_JPEG/%B8%DE%C0%CE_%C0%CC%B9%CC%C1%F6.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월의 느낌, 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62341</guid>
             <pubDate>Tue, 20 Jun 2023 12:27:56 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.20]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230620_52/1687249545554LnthN_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #148 : 
@@ -30,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62340</guid>
             <pubDate>Mon, 19 Jun 2023 10:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.19]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230619_129/1687159783773U7M6i_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멤피스, 
@@ -236,6 +239,14 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진 TOP)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20230626_10/16877645866700BdCs_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에이티즈가 빌보드 200 차트 2위에 올랐습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230626028600005?input=1195m</link>
+            <guid>https://www.yna.co.kr/view/AKR20230626028600005?input=1195m</guid>
+            <pubDate>Tue, 27 Jun 2023 01:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[에이티즈가 빌보드 200 차트 2위에 올랐습니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
+        </item>
+        <item>
             <title><![CDATA[샤이니가 6년 만에 개최된 대면 콘서트를 성황리에 마쳤습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
             <link>https://www.sedaily.com/NewsView/29R073CR2Y</link>
             <guid>https://www.sedaily.com/NewsView/29R073CR2Y</guid>
@@ -305,14 +316,6 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진 TOP)]]></title>
             <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000434416</guid>
             <pubDate>Wed, 14 Jun 2023 02:39:39 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단의 다이너마이트가 빌보드 차트에 재진입 했습니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스가 LA 소파이 스타디움에서 성공적으로 미국 투어를 시작했습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
-            <link>https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202306121656003&amp;sec_id=540301&amp;pt=nv</link>
-            <guid>https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202306121656003&amp;sec_id=540301&amp;pt=nv</guid>
-            <pubDate>Tue, 13 Jun 2023 02:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[트와이스가 LA 소파이 스타디움에서 성공적으로 미국 투어를 시작했습니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
         </item>
     </channel>
