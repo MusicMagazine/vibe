@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 02:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 03:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #161 
+샤이니]]></title>
+            <link>https://vibe.naver.com/magazines/62345</link>
+            <guid>https://vibe.naver.com/magazines/62345</guid>
+            <pubDate>Tue, 04 Jul 2023 03:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.29]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[I am 
  I.M]]></title>
@@ -32,7 +40,6 @@ NCT DREAM, 킴 페트라]]></title>
             <guid>https://vibe.naver.com/magazines/62342</guid>
             <pubDate>Mon, 26 Jun 2023 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.21]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230621_86/16873261772192Dqnx_JPEG/%B8%DE%C0%CE_%C0%CC%B9%CC%C1%F6.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월의 느낌, 
@@ -96,14 +103,6 @@ NCT DREAM, 킴 페트라]]></title>
             <link>https://vibe.naver.com/magazines/62334</link>
             <guid>https://vibe.naver.com/magazines/62334</guid>
             <pubDate>Wed, 07 Jun 2023 06:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이거 아마? 
-아마피아노!]]></title>
-            <link>https://vibe.naver.com/magazines/62333</link>
-            <guid>https://vibe.naver.com/magazines/62333</guid>
-            <pubDate>Tue, 06 Jun 2023 15:13:32 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.05]]></content:encoded>
         </item>
     </channel>
