@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 06:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 07:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[목소리가 없어도
+진심은 전해져요]]></title>
+            <link>https://vibe.naver.com/magazines/62348</link>
+            <guid>https://vibe.naver.com/magazines/62348</guid>
+            <pubDate>Fri, 07 Jul 2023 07:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.06]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230706_17/1688615103340uWyhb_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유키스랑 한번더, 
 갈래!]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62345</guid>
             <pubDate>Tue, 04 Jul 2023 03:30:12 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230630_25/16880852295958rIg6_PNG/%C0%CC%C1%D6%C0%C7%B5%F0%B1%EB_%BB%FE%C0%CC%B4%CF2.png?type=w720" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[I am 
@@ -97,14 +105,6 @@ NCT DREAM, 킴 페트라]]></title>
             <guid>https://vibe.naver.com/magazines/62337</guid>
             <pubDate>Wed, 14 Jun 2023 10:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.13]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #147 : 
-방탄소년단, 샘 스미스]]></title>
-            <link>https://vibe.naver.com/magazines/62336</link>
-            <guid>https://vibe.naver.com/magazines/62336</guid>
-            <pubDate>Tue, 13 Jun 2023 14:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.06.12]]></content:encoded>
         </item>
     </channel>
 </rss>
