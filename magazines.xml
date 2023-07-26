@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 07:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 08:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #163 
+포스트 말론]]></title>
+            <link>https://vibe.naver.com/magazines/62358</link>
+            <guid>https://vibe.naver.com/magazines/62358</guid>
+            <pubDate>Wed, 26 Jul 2023 08:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230725_45/169024644700609sG6_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[New Release #153 : 
 뉴진스, 트래비스 스캇]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62355</guid>
             <pubDate>Fri, 21 Jul 2023 10:13:59 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.17]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230717_242/1689582486703Ht913_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상반기, 
@@ -97,14 +105,6 @@ Valley]]></title>
             <guid>https://vibe.naver.com/magazines/62347</guid>
             <pubDate>Thu, 06 Jul 2023 09:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #150 : 
-샤이니, 올리비아 로드리고]]></title>
-            <link>https://vibe.naver.com/magazines/62346</link>
-            <guid>https://vibe.naver.com/magazines/62346</guid>
-            <pubDate>Wed, 05 Jul 2023 02:57:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.04]]></content:encoded>
         </item>
     </channel>
 </rss>
