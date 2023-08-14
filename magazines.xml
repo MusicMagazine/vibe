@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 08:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 09:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조유리, 
+사랑스럽게 직진]]></title>
+            <link>https://vibe.naver.com/magazines/62367</link>
+            <guid>https://vibe.naver.com/magazines/62367</guid>
+            <pubDate>Mon, 14 Aug 2023 09:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.11]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[테크토닉 
 소미]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62364</guid>
             <pubDate>Tue, 08 Aug 2023 12:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.07]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230807_174/1691395195300TC2hI_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싸이커스로의 
@@ -97,14 +104,6 @@
             <guid>https://vibe.naver.com/magazines/62355</guid>
             <pubDate>Fri, 21 Jul 2023 10:13:59 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[상반기, 
-화제의 알앤비 앨범]]></title>
-            <link>https://vibe.naver.com/magazines/62354</link>
-            <guid>https://vibe.naver.com/magazines/62354</guid>
-            <pubDate>Mon, 17 Jul 2023 10:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.14]]></content:encoded>
         </item>
     </channel>
 </rss>
