@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 08:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 09:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 힙합의 게임 체인저 : 
+MC 메타, 드렁큰 타이거]]></title>
+            <link>https://vibe.naver.com/magazines/62373</link>
+            <guid>https://vibe.naver.com/magazines/62373</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.25]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #165 
 오펜하이머]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62370</guid>
             <pubDate>Tue, 22 Aug 2023 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.21]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230821_174/1692607332979P1dhJ_JPEG/11.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나얼, 
@@ -97,14 +104,6 @@
             <guid>https://vibe.naver.com/magazines/62362</guid>
             <pubDate>Wed, 02 Aug 2023 10:13:55 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.31]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더 첫 다큐 
-핫한 월드투어 순간 공개!]]></title>
-            <link>https://vibe.naver.com/magazines/62361</link>
-            <guid>https://vibe.naver.com/magazines/62361</guid>
-            <pubDate>Mon, 31 Jul 2023 08:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.27]]></content:encoded>
         </item>
     </channel>
 </rss>
