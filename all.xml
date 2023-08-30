@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 07:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 08:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #158 : 
+악뮤, 셀레나 고메즈 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62374</link>
+            <guid>https://vibe.naver.com/magazines/62374</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.28]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230828_100/169320861186365WXJ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 힙합의 게임 체인저 : 
 MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
@@ -32,7 +41,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62371</guid>
             <pubDate>Tue, 22 Aug 2023 09:13:10 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.22]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230822_253/1692682540648tcts5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #157 : 
@@ -99,12 +107,15 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #154 : 
-셔누X형원, 캘빈 해리스 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62362</link>
-            <guid>https://vibe.naver.com/magazines/62362</guid>
-            <pubDate>Mon, 31 Jul 2023 08:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.07.31]]></content:encoded>
+            <title><![CDATA[New Release #158 : 
+악뮤, 셀레나 고메즈 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62374</link>
+            <guid>https://vibe.naver.com/magazines/62374</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62374" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230828_100/169320861186365WXJ_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="New Release #158 : 
+악뮤, 셀레나 고메즈"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>좋아요</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62374" data-title="New Release #158 : 악뮤, 셀레나 고메즈" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62374" class="title">New Release #158 : 
+악뮤, 셀레나 고메즈</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.08.28 </span><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">업데이트</span></span></div></div>]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230828_100/169320861186365WXJ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 힙합의 게임 체인저 : 
@@ -134,10 +145,9 @@ MC 메타, 드렁큰 타이거</a><div data-v-269b06c8="" class="sub"><span data
             <link>https://vibe.naver.com/magazines/62371</link>
             <guid>https://vibe.naver.com/magazines/62371</guid>
             <pubDate>Tue, 22 Aug 2023 09:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62371" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="https://music-phinf.pstatic.net/20230822_253/1692682540648tcts5_JPEG/%C4%BF%B9%F61.jpg?type=w720" class="v-lazy-image v-lazy-image-loaded" alt="김준수, 
+            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62371" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="김준수, 
 20년의 약속"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>좋아요</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62371" data-title="김준수, 20년의 약속" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62371" class="title">김준수, 
 20년의 약속</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.08.22 </span><!----></div></div>]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230822_253/1692682540648tcts5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #157 : 
@@ -220,23 +230,13 @@ MC 메타, 드렁큰 타이거</a><div data-v-269b06c8="" class="sub"><span data
 여행</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.08.02 </span><!----></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Release #154 : 
-셔누X형원, 캘빈 해리스 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62362</link>
-            <guid>https://vibe.naver.com/magazines/62362</guid>
-            <pubDate>Mon, 31 Jul 2023 08:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-v-269b06c8="" class="thumb_area"><a data-v-269b06c8="" href="/magazines/62362" class="link"><div data-v-269b06c8="" class="thumb"><img data-v-711064c9="" data-v-269b06c8="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" class="v-lazy-image" alt="New Release #154 : 
-셔누X형원, 캘빈 해리스"></div></a><a data-v-100a6273="" data-v-269b06c8="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-269b06c8="" class="more_option only" fixed="true"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>좋아요</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/magazines/62362" data-title="New Release #154 : 셔누X형원, 캘빈 해리스" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-269b06c8="" class="info"><a data-v-269b06c8="" href="/magazines/62362" class="title">New Release #154 : 
-셔누X형원, 캘빈 해리스</a><div data-v-269b06c8="" class="sub"><span data-v-269b06c8="" class="item"><span data-v-269b06c8="" class="blind">작성일</span> 2023.07.31 </span><!----></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #158 : 
-악뮤, 셀레나 고메즈 (VIBE ─ 매거진 TOP)]]></title>
-            <link>https://vibe.naver.com/magazines/62374</link>
-            <guid>https://vibe.naver.com/magazines/62374</guid>
-            <pubDate>Mon, 28 Aug 2023 09:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[그들다운 사랑스런 감성으로 돌아온 악뮤, 오랜만에 신곡을 발표한 셀레나 고메즈까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230828_50/1693208614593ohftA_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <title><![CDATA[Ready, Set, 
+예린 (VIBE ─ 매거진 TOP)]]></title>
+            <link>https://vibe.naver.com/magazines/62375</link>
+            <guid>https://vibe.naver.com/magazines/62375</guid>
+            <pubDate>Wed, 30 Aug 2023 08:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[예린이 다시 출발선에 선다. 우리 곁의 친근한 여자친구에서 중독성 강한 멜로디에 아련함 몇 방울을 얹은 신선하고 세련된 모습으로.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230829_268/1693297588960R8fqN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Lauv가 첫 단독 내한공연을 성황리에 마쳤습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
