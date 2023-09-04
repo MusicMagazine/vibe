@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 02:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 03:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ready, Set, 
+예린]]></title>
+            <link>https://vibe.naver.com/magazines/62375</link>
+            <guid>https://vibe.naver.com/magazines/62375</guid>
+            <pubDate>Mon, 04 Sep 2023 03:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230829_280/1693297586531XqmWr_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[New Release #158 : 
 악뮤, 셀레나 고메즈]]></title>
@@ -32,7 +41,6 @@ MC 메타, 드렁큰 타이거]]></title>
             <guid>https://vibe.naver.com/magazines/62372</guid>
             <pubDate>Fri, 25 Aug 2023 08:16:28 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.24]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230823_48/1692778966061ymdOD_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김준수, 
@@ -97,14 +105,6 @@ MC 메타, 드렁큰 타이거]]></title>
             <guid>https://vibe.naver.com/magazines/62364</guid>
             <pubDate>Tue, 08 Aug 2023 12:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싸이커스로의 
-여행]]></title>
-            <link>https://vibe.naver.com/magazines/62363</link>
-            <guid>https://vibe.naver.com/magazines/62363</guid>
-            <pubDate>Mon, 07 Aug 2023 12:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.08.02]]></content:encoded>
         </item>
     </channel>
 </rss>
