@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 09:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 10:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@ NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62376</guid>
             <pubDate>Mon, 04 Sep 2023 03:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.09.04]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230904_83/16937921759846nz6j_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ready, Set, 
