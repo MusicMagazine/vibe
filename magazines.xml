@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 12:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 13:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BOYNEXTDOOR, 
+옆집의 음악천재들]]></title>
+            <link>https://vibe.naver.com/magazines/62380</link>
+            <guid>https://vibe.naver.com/magazines/62380</guid>
+            <pubDate>Mon, 11 Sep 2023 13:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.08]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230908_144/16941368093724vuJV_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #166 
 NCT]]></title>
@@ -32,7 +41,6 @@ NCT]]></title>
             <guid>https://vibe.naver.com/magazines/62377</guid>
             <pubDate>Wed, 06 Sep 2023 08:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.04]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230904_59/1693803404498mtP0u_PNG/RIIZE_%B8%C5%B0%C5%C1%F8%28%BE%DB_%C1%A4%B9%E6%C7%FC_%B9%E8%B3%CA%29.png?type=w720" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[New Release #159 : 
@@ -97,14 +105,6 @@ MC 메타, 드렁큰 타이거]]></title>
             <guid>https://vibe.naver.com/magazines/62369</guid>
             <pubDate>Mon, 21 Aug 2023 10:13:55 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.08.16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #156 : 
-뷔, 올리비아 로드리고]]></title>
-            <link>https://vibe.naver.com/magazines/62368</link>
-            <guid>https://vibe.naver.com/magazines/62368</guid>
-            <pubDate>Wed, 16 Aug 2023 07:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.08.14]]></content:encoded>
         </item>
     </channel>
 </rss>
