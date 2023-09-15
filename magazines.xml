@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 05:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 06:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화사, 
+저스트 러브]]></title>
+            <link>https://vibe.naver.com/magazines/62382</link>
+            <guid>https://vibe.naver.com/magazines/62382</guid>
+            <pubDate>Fri, 15 Sep 2023 06:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.13]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[New Release #160 : 
 뷔, 올리비아 로드리고]]></title>
@@ -32,7 +40,6 @@ NCT]]></title>
             <guid>https://vibe.naver.com/magazines/62378</guid>
             <pubDate>Fri, 08 Sep 2023 05:12:10 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.07]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230906_163/1693964292060qQhwB_JPEG/NCT_2023.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영케이, 
@@ -97,14 +104,6 @@ MC 메타, 드렁큰 타이거]]></title>
             <guid>https://vibe.naver.com/magazines/62371</guid>
             <pubDate>Thu, 24 Aug 2023 08:16:06 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.08.22]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #157 : 
-지효, 찰리푸스]]></title>
-            <link>https://vibe.naver.com/magazines/62370</link>
-            <guid>https://vibe.naver.com/magazines/62370</guid>
-            <pubDate>Tue, 22 Aug 2023 09:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.08.21]]></content:encoded>
         </item>
     </channel>
 </rss>
