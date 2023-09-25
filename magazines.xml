@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 01:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 02:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 
+카더가든]]></title>
+            <link>https://vibe.naver.com/magazines/62387</link>
+            <guid>https://vibe.naver.com/magazines/62387</guid>
+            <pubDate>Mon, 25 Sep 2023 02:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.22]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230922_207/1695347551047N0F7l_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
 Loossemble (루셈블)]]></title>
@@ -32,7 +41,6 @@ Loossemble (루셈블)]]></title>
             <guid>https://vibe.naver.com/magazines/62384</guid>
             <pubDate>Tue, 19 Sep 2023 08:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.18]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230918_151/1695020134485gcIQK_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재찬이 홀로 건네는 
@@ -97,14 +105,6 @@ NCT, 니키 미나즈]]></title>
             <guid>https://vibe.naver.com/magazines/62376</guid>
             <pubDate>Mon, 04 Sep 2023 09:13:52 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.04]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ready, Set, 
-예린]]></title>
-            <link>https://vibe.naver.com/magazines/62375</link>
-            <guid>https://vibe.naver.com/magazines/62375</guid>
-            <pubDate>Mon, 04 Sep 2023 03:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.08.29]]></content:encoded>
         </item>
     </channel>
 </rss>
