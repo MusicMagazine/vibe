@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 02:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 03:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62388</guid>
             <pubDate>Mon, 25 Sep 2023 02:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230925_208/1695603652575m6tPk_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘의 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62387</guid>
             <pubDate>Fri, 22 Sep 2023 06:18:05 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.22]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230922_207/1695347551047N0F7l_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
@@ -30,6 +32,7 @@ Loossemble (루셈블) (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62386</guid>
             <pubDate>Wed, 20 Sep 2023 07:13:53 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.20]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230920_277/1695178866255oqf99_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #167 
