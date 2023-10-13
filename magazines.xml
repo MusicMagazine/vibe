@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 04:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #168 
+도자 캣]]></title>
+            <link>https://vibe.naver.com/magazines/62392</link>
+            <guid>https://vibe.naver.com/magazines/62392</guid>
+            <pubDate>Fri, 13 Oct 2023 05:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.12]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231012_152/1697093612540bTyBs_PNG/%B5%B5%C0%DA%C4%B9_%C1%A4%B9%E6%C7%FC.png?type=w720" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[New Release #163 : 
 정국, 에드 시런]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62389</guid>
             <pubDate>Thu, 05 Oct 2023 07:12:52 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.25]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230925_214/1695622768460I8XzU_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반드시 들어야 할 
@@ -97,14 +105,6 @@ Hello]]></title>
             <guid>https://vibe.naver.com/magazines/62381</guid>
             <pubDate>Wed, 13 Sep 2023 07:12:12 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BOYNEXTDOOR, 
-옆집의 음악천재들]]></title>
-            <link>https://vibe.naver.com/magazines/62380</link>
-            <guid>https://vibe.naver.com/magazines/62380</guid>
-            <pubDate>Mon, 11 Sep 2023 13:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.08]]></content:encoded>
         </item>
     </channel>
 </rss>
