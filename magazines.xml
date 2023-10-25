@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 00:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 01:51:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #165 : 
+선미, 샘 스미스]]></title>
+            <link>https://vibe.naver.com/magazines/62397</link>
+            <guid>https://vibe.naver.com/magazines/62397</guid>
+            <pubDate>Wed, 25 Oct 2023 01:51:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.23]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[츄, 
 새로운 시작]]></title>
@@ -32,7 +40,6 @@
             <guid>https://vibe.naver.com/magazines/62394</guid>
             <pubDate>Wed, 18 Oct 2023 09:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.16]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231016_196/1697441001949yFV1r_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투모로우바이투게더, 
@@ -97,14 +104,6 @@ Loossemble (루셈블)]]></title>
             <guid>https://vibe.naver.com/magazines/62386</guid>
             <pubDate>Fri, 22 Sep 2023 06:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.20]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #167 
-스트릿 우먼 파이터2]]></title>
-            <link>https://vibe.naver.com/magazines/62385</link>
-            <guid>https://vibe.naver.com/magazines/62385</guid>
-            <pubDate>Wed, 20 Sep 2023 07:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.19]]></content:encoded>
         </item>
     </channel>
 </rss>
