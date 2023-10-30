@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 07:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 08:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올드 드레이크가 이런 건가요? 
+ – 시저, 제이 콜, 이트]]></title>
+            <link>https://vibe.naver.com/magazines/62399</link>
+            <guid>https://vibe.naver.com/magazines/62399</guid>
+            <pubDate>Mon, 30 Oct 2023 08:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.26]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231026_145/1698289838664jwYQH_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #169 
 세븐틴]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62396</guid>
             <pubDate>Mon, 23 Oct 2023 09:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.20]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231020_23/1697767995982LeJCN_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휘인의 
@@ -97,14 +105,6 @@
             <guid>https://vibe.naver.com/magazines/62388</guid>
             <pubDate>Mon, 25 Sep 2023 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 
-카더가든]]></title>
-            <link>https://vibe.naver.com/magazines/62387</link>
-            <guid>https://vibe.naver.com/magazines/62387</guid>
-            <pubDate>Mon, 25 Sep 2023 02:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.09.22]]></content:encoded>
         </item>
     </channel>
 </rss>
