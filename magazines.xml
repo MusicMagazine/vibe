@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 05:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 06:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Releases #168 : 
+에스파, 두아리파]]></title>
+            <link>https://vibe.naver.com/magazines/62410</link>
+            <guid>https://vibe.naver.com/magazines/62410</guid>
+            <pubDate>Fri, 17 Nov 2023 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.13]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231113_105/16998526944692THsf_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #170 
 바밍 타이거]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62407</guid>
             <pubDate>Mon, 06 Nov 2023 07:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.03]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231103_123/16989750286288NVBh_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 엔진을 켜는, 
@@ -97,14 +105,6 @@
             <guid>https://vibe.naver.com/magazines/62394</guid>
             <pubDate>Wed, 18 Oct 2023 09:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더, 
-현실로 활강하다]]></title>
-            <link>https://vibe.naver.com/magazines/62393</link>
-            <guid>https://vibe.naver.com/magazines/62393</guid>
-            <pubDate>Mon, 16 Oct 2023 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.13]]></content:encoded>
         </item>
     </channel>
 </rss>
