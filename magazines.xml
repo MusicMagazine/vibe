@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 07:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 08:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Releases #169 : 
+레드벨벳, 테이트 맥레이]]></title>
+            <link>https://vibe.naver.com/magazines/62412</link>
+            <guid>https://vibe.naver.com/magazines/62412</guid>
+            <pubDate>Tue, 21 Nov 2023 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.20]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231120_202/1700452536068480Yo_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔하이픈, 
 오렌지빛 따뜻한 사랑]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62409</guid>
             <pubDate>Mon, 13 Nov 2023 07:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.07]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231107_222/1699319393384PCt8D_JPEG/%C4%BF%B9%F62.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Releases #167 : 
@@ -97,14 +105,6 @@
             <guid>https://vibe.naver.com/magazines/62396</guid>
             <pubDate>Mon, 23 Oct 2023 09:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.20]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[휘인의 
-무드]]></title>
-            <link>https://vibe.naver.com/magazines/62395</link>
-            <guid>https://vibe.naver.com/magazines/62395</guid>
-            <pubDate>Fri, 20 Oct 2023 06:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.10.18]]></content:encoded>
         </item>
     </channel>
 </rss>
