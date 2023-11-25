@@ -4,7 +4,7 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 04:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 05:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62413</guid>
             <pubDate>Wed, 22 Nov 2023 07:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.21]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231121_20/1700550858823OK6zo_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Releases #169 : 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62412</guid>
             <pubDate>Tue, 21 Nov 2023 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.20]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231120_202/1700452536068480Yo_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔하이픈, 
