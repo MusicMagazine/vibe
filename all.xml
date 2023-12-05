@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 01:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 02:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62416</guid>
             <pubDate>Tue, 28 Nov 2023 03:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.28]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231128_267/17011333566636U2L1_GIF/%C4%BF%B9%F62.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[New Release #170 : 
@@ -23,7 +22,6 @@
             <guid>https://vibe.naver.com/magazines/62415</guid>
             <pubDate>Mon, 27 Nov 2023 06:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.27]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231127_189/1701063224878HMJOn_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴백한 빅스의 
@@ -32,7 +30,6 @@
             <guid>https://vibe.naver.com/magazines/62414</guid>
             <pubDate>Wed, 22 Nov 2023 07:12:38 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.22]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231122_197/1700615132395P5HRB_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #171 
@@ -239,6 +236,14 @@
             <enclosure url="https://music-phinf.pstatic.net/20231204_26/1701669264460Ytrmj_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김필이 단독 콘서트 매진에 이어 앙코르 콘서트를 개최합니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
+            <link>https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202312050932013&amp;sec_id=540301&amp;pt=nv</link>
+            <guid>https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202312050932013&amp;sec_id=540301&amp;pt=nv</guid>
+            <pubDate>Tue, 05 Dec 2023 02:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[김필이 단독 콘서트 매진에 이어 앙코르 콘서트를 개최합니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
+        </item>
+        <item>
             <title><![CDATA[세븐틴이 日 나고야에서 돔 투어 공연을 성공적으로 마쳤습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
             <link>https://www.newsis.com/view/?id=NISX20231204_0002544357&amp;cID=10601&amp;pID=10600</link>
             <guid>https://www.newsis.com/view/?id=NISX20231204_0002544357&amp;cID=10601&amp;pID=10600</guid>
@@ -308,14 +313,6 @@
             <guid>https://www.spotvnews.co.kr/news/articleView.html?idxno=644780</guid>
             <pubDate>Wed, 22 Nov 2023 02:29:10 GMT</pubDate>
             <content:encoded><![CDATA[엔하이픈이 美 ABC ‘굿모닝 아메리카’에 출연합니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
-        </item>
-        <item>
-            <title><![CDATA[김세정이 첫 단독 글로벌 투어를 성황리에 마쳤습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
-            <link>https://tenasia.hankyung.com/article/2023112118864</link>
-            <guid>https://tenasia.hankyung.com/article/2023112118864</guid>
-            <pubDate>Tue, 21 Nov 2023 02:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[김세정이 첫 단독 글로벌 투어를 성황리에 마쳤습니다<span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
         </item>
     </channel>
