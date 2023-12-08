@@ -1,104 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vibe.naver.com/magazines</id>
-    <title>VIBE ─ 매거진</title>
-    <updated>2023-12-08T02:27:43.955Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이주의 디깅 #172 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>VIBE ─ 매거진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 08 Dec 2023 03:14:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #172 
 크리스마스 캐롤]]></title>
-        <id>https://vibe.naver.com/magazines/62418</id>
-        <link href="https://vibe.naver.com/magazines/62418"/>
-        <updated>2023-12-07T09:13:40.298Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release #171 : 
+            <link>https://vibe.naver.com/magazines/62418</link>
+            <guid>https://vibe.naver.com/magazines/62418</guid>
+            <pubDate>Thu, 07 Dec 2023 09:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.05]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231205_291/1701741922422UVp8A_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Release #171 : 
 태연, 비욘세]]></title>
-        <id>https://vibe.naver.com/magazines/62417</id>
-        <link href="https://vibe.naver.com/magazines/62417"/>
-        <updated>2023-12-06T06:18:10.224Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말에는 이 앨범 - 
+            <link>https://vibe.naver.com/magazines/62417</link>
+            <guid>https://vibe.naver.com/magazines/62417</guid>
+            <pubDate>Wed, 06 Dec 2023 06:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.04]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231204_19/1701669262927rB3Jf_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연말에는 이 앨범 - 
 크러쉬, 폴 블랑코, pH-1]]></title>
-        <id>https://vibe.naver.com/magazines/62416</id>
-        <link href="https://vibe.naver.com/magazines/62416"/>
-        <updated>2023-12-04T07:12:53.910Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release #170 : 
+            <link>https://vibe.naver.com/magazines/62416</link>
+            <guid>https://vibe.naver.com/magazines/62416</guid>
+            <pubDate>Mon, 04 Dec 2023 07:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.28]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231128_267/17011333566636U2L1_GIF/%C4%BF%B9%F62.gif?type=w720" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[New Release #170 : 
 김창완, 비욕&로살리아]]></title>
-        <id>https://vibe.naver.com/magazines/62415</id>
-        <link href="https://vibe.naver.com/magazines/62415"/>
-        <updated>2023-11-28T03:14:44.077Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴백한 빅스의 
+            <link>https://vibe.naver.com/magazines/62415</link>
+            <guid>https://vibe.naver.com/magazines/62415</guid>
+            <pubDate>Tue, 28 Nov 2023 03:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.27]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[컴백한 빅스의 
 기억상실?]]></title>
-        <id>https://vibe.naver.com/magazines/62414</id>
-        <link href="https://vibe.naver.com/magazines/62414"/>
-        <updated>2023-11-27T06:18:19.670Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주의 디깅 #171 
+            <link>https://vibe.naver.com/magazines/62414</link>
+            <guid>https://vibe.naver.com/magazines/62414</guid>
+            <pubDate>Mon, 27 Nov 2023 06:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.22]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이주의 디깅 #171 
 딘]]></title>
-        <id>https://vibe.naver.com/magazines/62413</id>
-        <link href="https://vibe.naver.com/magazines/62413"/>
-        <updated>2023-11-22T07:12:26.738Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Releases #169 : 
+            <link>https://vibe.naver.com/magazines/62413</link>
+            <guid>https://vibe.naver.com/magazines/62413</guid>
+            <pubDate>Wed, 22 Nov 2023 07:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Releases #169 : 
 레드벨벳, 테이트 맥레이]]></title>
-        <id>https://vibe.naver.com/magazines/62412</id>
-        <link href="https://vibe.naver.com/magazines/62412"/>
-        <updated>2023-11-21T08:17:39.551Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈, 
+            <link>https://vibe.naver.com/magazines/62412</link>
+            <guid>https://vibe.naver.com/magazines/62412</guid>
+            <pubDate>Tue, 21 Nov 2023 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.20]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔하이픈, 
 오렌지빛 따뜻한 사랑]]></title>
-        <id>https://vibe.naver.com/magazines/62411</id>
-        <link href="https://vibe.naver.com/magazines/62411"/>
-        <updated>2023-11-20T06:18:59.822Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Releases #168 : 
+            <link>https://vibe.naver.com/magazines/62411</link>
+            <guid>https://vibe.naver.com/magazines/62411</guid>
+            <pubDate>Mon, 20 Nov 2023 06:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.16]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Releases #168 : 
 에스파, 두아리파]]></title>
-        <id>https://vibe.naver.com/magazines/62410</id>
-        <link href="https://vibe.naver.com/magazines/62410"/>
-        <updated>2023-11-17T06:18:32.720Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주의 디깅 #170 
+            <link>https://vibe.naver.com/magazines/62410</link>
+            <guid>https://vibe.naver.com/magazines/62410</guid>
+            <pubDate>Fri, 17 Nov 2023 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이주의 디깅 #170 
 바밍 타이거]]></title>
-        <id>https://vibe.naver.com/magazines/62409</id>
-        <link href="https://vibe.naver.com/magazines/62409"/>
-        <updated>2023-11-13T07:13:01.034Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Releases #167 : 
+            <link>https://vibe.naver.com/magazines/62409</link>
+            <guid>https://vibe.naver.com/magazines/62409</guid>
+            <pubDate>Mon, 13 Nov 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Releases #167 : 
  정국, 비틀스]]></title>
-        <id>https://vibe.naver.com/magazines/62408</id>
-        <link href="https://vibe.naver.com/magazines/62408"/>
-        <updated>2023-11-07T04:15:32.678Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WayV의 
+            <link>https://vibe.naver.com/magazines/62408</link>
+            <guid>https://vibe.naver.com/magazines/62408</guid>
+            <pubDate>Tue, 07 Nov 2023 04:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.06]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WayV의 
 의미있는 성장]]></title>
-        <id>https://vibe.naver.com/magazines/62407</id>
-        <link href="https://vibe.naver.com/magazines/62407"/>
-        <updated>2023-11-06T07:12:51.695Z</updated>
-        <content type="html"><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.03]]></content>
-    </entry>
-</feed>
+            <link>https://vibe.naver.com/magazines/62407</link>
+            <guid>https://vibe.naver.com/magazines/62407</guid>
+            <pubDate>Mon, 06 Nov 2023 07:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.03]]></content:encoded>
+        </item>
+    </channel>
+</rss>
