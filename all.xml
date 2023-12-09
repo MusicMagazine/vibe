@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 23:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62418</guid>
             <pubDate>Wed, 06 Dec 2023 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.05]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231205_291/1701741922422UVp8A_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #171 : 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62417</guid>
             <pubDate>Mon, 04 Dec 2023 07:13:04 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.04]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231204_19/1701669262927rB3Jf_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말에는 이 앨범 - 
@@ -30,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62416</guid>
             <pubDate>Tue, 28 Nov 2023 03:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.11.28]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231128_267/17011333566636U2L1_GIF/%C4%BF%B9%F62.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[New Release #170 : 
