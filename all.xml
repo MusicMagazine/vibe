@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 02:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 03:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62424</guid>
             <pubDate>Mon, 18 Dec 2023 06:18:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.18]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231218_194/1702877079796xfEi5_JPEG/%C4%BF%B9%F621.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 VIBE 연말결산: 
@@ -31,7 +30,6 @@
             <guid>https://vibe.naver.com/magazines/62422</guid>
             <pubDate>Wed, 13 Dec 2023 10:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.13]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231213_119/17024324848903YHs6_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울이잖아, 
