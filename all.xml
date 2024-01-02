@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 06:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 07:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://vibe.naver.com/magazines/62427</guid>
             <pubDate>Thu, 28 Dec 2023 06:17:54 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.28]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231228_218/1703740701790aSgqd_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #173: 
@@ -21,6 +22,7 @@
             <guid>https://vibe.naver.com/magazines/62426</guid>
             <pubDate>Tue, 26 Dec 2023 11:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.26]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231226_9/1703574809959lTLBs_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[10년의 여정 그 너머의 이야기 
@@ -29,6 +31,7 @@
             <guid>https://vibe.naver.com/magazines/62423</guid>
             <pubDate>Wed, 20 Dec 2023 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.20]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231214_92/1702540074168eQl54_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #172 : 
