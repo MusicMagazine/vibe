@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 19:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 20:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62425</guid>
             <pubDate>Mon, 08 Jan 2024 17:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20231226_77/1703558431225WQf6W_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023년을 빛낸 한국 힙합 앨범은? (VIBE ─ 매거진)]]></title>
