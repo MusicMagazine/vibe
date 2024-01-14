@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 03:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 04:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62425</guid>
             <pubDate>Mon, 08 Jan 2024 17:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231226_77/1703558431225WQf6W_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023년을 빛낸 한국 힙합 앨범은? (VIBE ─ 매거진)]]></title>
@@ -21,6 +22,7 @@
             <guid>https://vibe.naver.com/magazines/62427</guid>
             <pubDate>Mon, 08 Jan 2024 17:12:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.28]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231228_218/1703740701790aSgqd_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #173: 
@@ -29,6 +31,7 @@
             <guid>https://vibe.naver.com/magazines/62426</guid>
             <pubDate>Mon, 08 Jan 2024 17:12:58 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.26]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20231226_9/1703574809959lTLBs_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[10년의 여정 그 너머의 이야기 
