@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 07:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 08:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #175 
+시대유감]]></title>
+            <link>https://vibe.naver.com/magazines/62432</link>
+            <guid>https://vibe.naver.com/magazines/62432</guid>
+            <pubDate>Wed, 24 Jan 2024 08:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2024.01.23]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240123_204/1705973230794E1nde_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어떤 날이든 굿모닝, 
 예나]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62430</guid>
             <pubDate>Tue, 16 Jan 2024 06:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2024.01.15]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240115_25/1705295407475Nc0Y5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #174 
@@ -96,14 +104,6 @@
             <guid>https://vibe.naver.com/magazines/62422</guid>
             <pubDate>Wed, 13 Dec 2023 04:16:37 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.13]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울이잖아, 
-헤이즈]]></title>
-            <link>https://vibe.naver.com/magazines/62420</link>
-            <guid>https://vibe.naver.com/magazines/62420</guid>
-            <pubDate>Wed, 13 Dec 2023 04:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-67bd4c1e="" class="blind">작성일</span> 2023.12.11]]></content:encoded>
         </item>
     </channel>
 </rss>
