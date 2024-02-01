@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 19:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 20:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62433</guid>
             <pubDate>Wed, 24 Jan 2024 08:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-2a8af070="" class="blind">작성일</span> 2024.01.24]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240124_267/1706079398762PnOYD_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #175 
