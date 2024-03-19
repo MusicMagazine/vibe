@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 03:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 04:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #178: 
+플레이브, 아리아나 그란데]]></title>
+            <link>https://vibe.naver.com/magazines/62441</link>
+            <guid>https://vibe.naver.com/magazines/62441</guid>
+            <pubDate>Tue, 19 Mar 2024 04:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.03.11]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240311_50/17101378644286Hkt5_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #178 
 비비]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62438</guid>
             <pubDate>Mon, 26 Feb 2024 08:16:36 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.02.20]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240220_280/1708408994421MVzgg_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #176: 
@@ -97,14 +105,6 @@ TWS와 함께할 시간]]></title>
             <guid>https://vibe.naver.com/magazines/62429</guid>
             <pubDate>Thu, 18 Jan 2024 02:01:36 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.01.16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #174: 
-동방신기, 아리아나 그란데]]></title>
-            <link>https://vibe.naver.com/magazines/62430</link>
-            <guid>https://vibe.naver.com/magazines/62430</guid>
-            <pubDate>Tue, 16 Jan 2024 06:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.01.15]]></content:encoded>
         </item>
     </channel>
 </rss>
