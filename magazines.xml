@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 02:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 03:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니스라는 
+새로운 세계]]></title>
+            <link>https://vibe.naver.com/magazines/62449</link>
+            <guid>https://vibe.naver.com/magazines/62449</guid>
+            <pubDate>Tue, 02 Apr 2024 03:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.03.28]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240327_127/1711522205641fixpE_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Release #179: 
 뷔, 벤슨 분]]></title>
@@ -32,7 +41,6 @@ DAY6]]></title>
             <guid>https://vibe.naver.com/magazines/62442</guid>
             <pubDate>Wed, 20 Mar 2024 03:14:42 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.03.19]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240318_69/1710744406643b6zKo_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #178: 
@@ -97,14 +105,6 @@ DAY6]]></title>
             <guid>https://vibe.naver.com/magazines/62434</guid>
             <pubDate>Mon, 29 Jan 2024 05:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.01.26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[24/7, 
-TWS와 함께할 시간]]></title>
-            <link>https://vibe.naver.com/magazines/62433</link>
-            <guid>https://vibe.naver.com/magazines/62433</guid>
-            <pubDate>Fri, 26 Jan 2024 08:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.01.24]]></content:encoded>
         </item>
     </channel>
 </rss>
