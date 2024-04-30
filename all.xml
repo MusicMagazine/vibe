@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 00:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 01:55:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62455</guid>
             <pubDate>Thu, 18 Apr 2024 05:14:44 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.04.18]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240417_192/17133255519413hGac_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #181 
@@ -22,6 +23,7 @@
             <guid>https://vibe.naver.com/magazines/62454</guid>
             <pubDate>Tue, 16 Apr 2024 10:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.04.16]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240416_188/1713248029110OxA9Y_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #180: 
@@ -30,6 +32,7 @@
             <guid>https://vibe.naver.com/magazines/62453</guid>
             <pubDate>Mon, 08 Apr 2024 09:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.04.08]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240408_105/1712561371818f7lbD_JPEG/%C4%BF%B8%D31.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투모로우바이투게더, 
@@ -236,6 +239,14 @@ DAY6</span></a><div data-v-289ed7a3="" class="sub"><span data-v-289ed7a3="" clas
             <enclosure url="https://music-phinf.pstatic.net/20240422_271/1713761101736rzEzC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김호중이 오는 5월 23일, 세계 4대 오케스트라와 콜라보 무대를 펼칩니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
+            <link>https://mydaily.co.kr/page/view/2024043008393402094</link>
+            <guid>https://mydaily.co.kr/page/view/2024043008393402094</guid>
+            <pubDate>Tue, 30 Apr 2024 01:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span id="PL_TEMP_AR_REP_266987">김호중이 오는 5월 23일, 세계 4대 오케스트라와 콜라보 무대를 펼칩니다</span><span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
+        </item>
+        <item>
             <title><![CDATA[아이브가 오늘(29일) 오후 6시에 두 번째 미니 앨범 '아이브 스위치'를 발매합니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
             <link>https://www.newsen.com/news_view.php?uid=202404290915030410</link>
             <guid>https://www.newsen.com/news_view.php?uid=202404290915030410</guid>
@@ -305,14 +316,6 @@ DAY6</span></a><div data-v-289ed7a3="" class="sub"><span data-v-289ed7a3="" clas
             <guid>https://news.tf.co.kr/read/entertain/2091581.htm</guid>
             <pubDate>Wed, 17 Apr 2024 01:54:55 GMT</pubDate>
             <content:encoded><![CDATA[<span id="PL_TEMP_AR_REP_1963693">스트레이 키즈가 5월 10일, 팝가수 찰리 푸스와의 콜라보레이션 음원을 공개합니다</span><span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
-        </item>
-        <item>
-            <title><![CDATA[빅스가 5년 4개월만에 단독 팬미팅 개최 소식을 알렸습니다관련 플레이리스트 보기 (VIBE ─ NEWS)]]></title>
-            <link>https://sports.chosun.com/entertainment/2024-04-16/202404160100117200015960?t=n1</link>
-            <guid>https://sports.chosun.com/entertainment/2024-04-16/202404160100117200015960?t=n1</guid>
-            <pubDate>Tue, 16 Apr 2024 01:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span id="PL_TEMP_AR_REP_219795">빅스가 5년 4개월만에 단독 팬미팅 개최 소식을 알렸습니다</span><span class="blind">관련 플레이리스트 보기</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAFDAQMAAAA00VdxAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAALSSURBVHja7Zo9jttADIU1EYIpBeQCyjHSKUcIkLOkllJtuVcaIIdIayAXUOkAhhRJ9srklnxvYW3w3gE+W5xHzg9ZVZIkSZIkSZIkSZIkSZIkSZL0PvRp+opDPs7zPMCUfqFcUEieVxWQ0m2UMwZJ81UYpblRCuGD0E+6QeYJgdQvFMgyzU5BAtPulBE07lUX3C1YeO/BRcKbDaUQgouEtzOUM2GJkEUykPgi2SWKF4fsKAXOolUnwkLHl7pzlDNhoeMUBwkvNYXi7RI1zGvKQDBd1HbOdM9R2znTPVEoddS81rpTitrO16honeqd/fsgxSdRFzNv8mWhJVBOq3vgBCirkweUMkQp2VPaWCJlXxW6GKXxFaqPJVLjt9fgXtK6/1IH9xKX0luURjCl56EJ7iWOUrogxe1pp55BGaMHIUf5G6XshO/I7mhLC04Z9uye4kVqMsA45WysE6eMJhnipe5k0jtOKaZgDWGK/bpHUbL1SPgclO1VpAcpZ1trHkwZbQ1+FKWx95kmermhUor9vMdTvuCUJXUmBiXNe2oClPpevwFKXmIjyrEpnJVmuK5QMmChfDtQZSBQ3qDuvu/96ID7NOfk4U5BRzjX1TCFc1LFTs2cE3wy7909TMFuNpV7NDnIjW/+jdw+t5C6C370Pj21DMqlQV++148ZM4NyqlHKGpKS0L5CuzkOpTSbQdBOSfPyNAZR8hrOhD7C5/XHa5RS315SsbYCh5Jub8Ngo8SWlnjT5vpmjlLWt3u8b9kvv45Tlq+p8MbaEtmfeKtwWeVfeNtyofzBKZyOGKc7lyidwjfpfUZb7pxuLqezzOlyZ0rHPRPs8towVUVY6vjoCmdCgzMt0hKWiDVFw5noqSjTRZxJJ9LUVaZMgCXc/za82PxiRwjLPTAFoiTCqF9FmqQkTXVyJkxJ067Vhx+fK0mSJEmSJEmSJEmSJEmSJOn/1D9uT3jXJkuorAAAAABJRU5ErkJggg=="/>
         </item>
     </channel>
