@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 01:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 02:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[총 멤버 24명, 
+드디어 완성된 tripleS]]></title>
+            <link>https://vibe.naver.com/magazines/62460</link>
+            <guid>https://vibe.naver.com/magazines/62460</guid>
+            <pubDate>Tue, 14 May 2024 02:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.05.09]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240509_270/1715217204075M4sdA_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Release #182: 
 세븐틴, 두아 리파]]></title>
@@ -32,7 +41,6 @@ Q&A]]></title>
             <guid>https://vibe.naver.com/magazines/62457</guid>
             <pubDate>Mon, 13 May 2024 20:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.05.03]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240502_205/1714632209607K3U0W_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #181: 
@@ -97,14 +105,6 @@ Q&A]]></title>
             <guid>https://vibe.naver.com/magazines/62446</guid>
             <pubDate>Mon, 13 May 2024 20:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.03.25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #179 
-K-오컬트]]></title>
-            <link>https://vibe.naver.com/magazines/62443</link>
-            <guid>https://vibe.naver.com/magazines/62443</guid>
-            <pubDate>Mon, 13 May 2024 20:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.03.19]]></content:encoded>
         </item>
     </channel>
 </rss>
