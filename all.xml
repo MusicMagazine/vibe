@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 10:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 11:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62478</guid>
             <pubDate>Mon, 05 Aug 2024 03:17:32 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.08.05]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240805_175/1722824596128KDVt8_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #187: 
