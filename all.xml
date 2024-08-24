@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Aug 2024 01:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 02:35:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,6 @@
             <guid>https://vibe.naver.com/magazines/62480</guid>
             <pubDate>Mon, 19 Aug 2024 02:36:55 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.08.19]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240819_180/1724033489532ym5UN_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로미스나인, 
@@ -23,7 +22,6 @@
             <guid>https://vibe.naver.com/magazines/62479</guid>
             <pubDate>Tue, 13 Aug 2024 07:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.08.13]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240813_174/1723528000126XMmKp_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #188: 
