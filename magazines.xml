@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 02:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석철트리오의 
+여름은 아직!]]></title>
+            <link>https://vibe.naver.com/magazines/62482</link>
+            <guid>https://vibe.naver.com/magazines/62482</guid>
+            <pubDate>Mon, 02 Sep 2024 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.08.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240829_287/1724901176366OgUQ6_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #189: 
 HONNE]]></title>
@@ -32,7 +41,6 @@ HONNE]]></title>
             <guid>https://vibe.naver.com/magazines/62479</guid>
             <pubDate>Mon, 19 Aug 2024 02:36:44 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.08.13]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240813_174/1723528000126XMmKp_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #188: 
@@ -97,14 +105,6 @@ HONNE]]></title>
             <guid>https://vibe.naver.com/magazines/62471</guid>
             <pubDate>Wed, 10 Jul 2024 05:15:50 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.07.01]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #185: 
-뉴진스]]></title>
-            <link>https://vibe.naver.com/magazines/62470</link>
-            <guid>https://vibe.naver.com/magazines/62470</guid>
-            <pubDate>Mon, 01 Jul 2024 02:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.06.25]]></content:encoded>
         </item>
     </channel>
 </rss>
