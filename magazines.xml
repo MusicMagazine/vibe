@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 05:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 06:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #191: 
+백현, 린킨파크]]></title>
+            <link>https://vibe.naver.com/magazines/62487</link>
+            <guid>https://vibe.naver.com/magazines/62487</guid>
+            <pubDate>Tue, 24 Sep 2024 06:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.23]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240923_246/1727067447544oNPa7_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #190: 
 Oasis]]></title>
@@ -32,7 +41,6 @@ Oasis]]></title>
             <guid>https://vibe.naver.com/magazines/62484</guid>
             <pubDate>Fri, 06 Sep 2024 03:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.04]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240904_115/1725418210252bJRAx_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #190: 
@@ -97,14 +105,6 @@ HONNE]]></title>
             <guid>https://vibe.naver.com/magazines/62476</guid>
             <pubDate>Mon, 05 Aug 2024 03:17:23 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.07.23]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[케이티, 
-다시 돌아온 스타]]></title>
-            <link>https://vibe.naver.com/magazines/62475</link>
-            <guid>https://vibe.naver.com/magazines/62475</guid>
-            <pubDate>Tue, 23 Jul 2024 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.07.22]]></content:encoded>
         </item>
     </channel>
 </rss>
