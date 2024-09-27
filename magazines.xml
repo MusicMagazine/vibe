@@ -4,9 +4,17 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 05:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NA, 
+HWASA]]></title>
+            <link>https://vibe.naver.com/magazines/62489</link>
+            <guid>https://vibe.naver.com/magazines/62489</guid>
+            <pubDate>Fri, 27 Sep 2024 06:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.25]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #191: 
 The Weeknd]]></title>
@@ -32,7 +40,6 @@ Oasis]]></title>
             <guid>https://vibe.naver.com/magazines/62486</guid>
             <pubDate>Mon, 23 Sep 2024 07:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.11]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240911_246/1726017957077MkNQh_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Day6, 
@@ -97,14 +104,6 @@ HONNE]]></title>
             <guid>https://vibe.naver.com/magazines/62477</guid>
             <pubDate>Tue, 13 Aug 2024 07:15:23 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.08.06]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New Release #188: 
-캘빈 해리스, 엘리 굴딩]]></title>
-            <link>https://vibe.naver.com/magazines/62478</link>
-            <guid>https://vibe.naver.com/magazines/62478</guid>
-            <pubDate>Tue, 06 Aug 2024 03:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.08.05]]></content:encoded>
         </item>
     </channel>
 </rss>
