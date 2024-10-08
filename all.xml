@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 08:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,7 @@
             <guid>https://vibe.naver.com/magazines/62490</guid>
             <pubDate>Fri, 27 Sep 2024 06:25:00 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.27]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240927_73/1727415366077ng4zP_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NA, 
@@ -22,6 +23,7 @@ HWASA (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/62489</guid>
             <pubDate>Wed, 25 Sep 2024 06:23:52 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240925_87/1727239093728sMEAf_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #191: 
