@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 05:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 06:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Release #196: 
+태연, 켄드릭 라마]]></title>
+            <link>https://vibe.naver.com/magazines/62501</link>
+            <guid>https://vibe.naver.com/magazines/62501</guid>
+            <pubDate>Wed, 04 Dec 2024 06:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.12.02]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20241202_86/1733110873373klmAU_JPEG/z%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 
 이즈나(izna)]]></title>
@@ -32,7 +41,6 @@ NCT DREAM, 린킨 파크]]></title>
             <guid>https://vibe.naver.com/magazines/62498</guid>
             <pubDate>Tue, 19 Nov 2024 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.11.18]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20241118_225/17318987468915pplF_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #194: 
@@ -97,14 +105,6 @@ QWER]]></title>
             <guid>https://vibe.naver.com/magazines/62490</guid>
             <pubDate>Mon, 07 Oct 2024 05:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NA, 
-HWASA]]></title>
-            <link>https://vibe.naver.com/magazines/62489</link>
-            <guid>https://vibe.naver.com/magazines/62489</guid>
-            <pubDate>Fri, 27 Sep 2024 06:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.25]]></content:encoded>
         </item>
     </channel>
 </rss>
