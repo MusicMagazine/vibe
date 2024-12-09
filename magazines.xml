@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 05:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 06:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TWS의 
+새로운 축제]]></title>
+            <link>https://vibe.naver.com/magazines/62502</link>
+            <guid>https://vibe.naver.com/magazines/62502</guid>
+            <pubDate>Mon, 09 Dec 2024 06:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.12.04]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20241204_257/1733279075401WDN6n_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Release #196: 
 태연, 켄드릭 라마]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62499</guid>
             <pubDate>Tue, 26 Nov 2024 06:25:05 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.11.19]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20241119_89/1731979841023CFPFL_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #195: 
@@ -97,14 +105,6 @@ QWER]]></title>
             <guid>https://vibe.naver.com/magazines/62491</guid>
             <pubDate>Mon, 14 Oct 2024 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.10.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밴드 드래곤 
-포니의 탄생]]></title>
-            <link>https://vibe.naver.com/magazines/62490</link>
-            <guid>https://vibe.naver.com/magazines/62490</guid>
-            <pubDate>Mon, 07 Oct 2024 05:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.09.27]]></content:encoded>
         </item>
     </channel>
 </rss>
