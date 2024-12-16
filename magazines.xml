@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 05:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #196: 
+지드래곤]]></title>
+            <link>https://vibe.naver.com/magazines/62504</link>
+            <guid>https://vibe.naver.com/magazines/62504</guid>
+            <pubDate>Mon, 16 Dec 2024 05:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.12.12]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20241212_68/1733988282087lJT34_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Now or 
 크래비티]]></title>
@@ -32,7 +41,6 @@
             <guid>https://vibe.naver.com/magazines/62501</guid>
             <pubDate>Wed, 04 Dec 2024 07:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.12.02]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20241202_86/1733110873373klmAU_JPEG/z%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 
@@ -97,14 +105,6 @@ NCT DREAM, 린킨 파크]]></title>
             <guid>https://vibe.naver.com/magazines/62493</guid>
             <pubDate>Tue, 22 Oct 2024 11:14:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.10.21]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #192: 
-QWER]]></title>
-            <link>https://vibe.naver.com/magazines/62492</link>
-            <guid>https://vibe.naver.com/magazines/62492</guid>
-            <pubDate>Mon, 21 Oct 2024 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.10.14]]></content:encoded>
         </item>
     </channel>
 </rss>
